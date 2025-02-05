@@ -1,4 +1,37 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 51048 ***
+The Project Gutenberg EBook of The Geologic Story of Canyonlands National
+Park, by S. W. Lohman
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Geologic Story of Canyonlands National Park
+
+Author: S. W. Lohman
+
+Illustrator: John R. Stacy
+
+Release Date: January 27, 2016 [EBook #51048]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CANYONLANDS NATIONAL PARK ***
+
+
+
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
 
     [Illustration: Geology of Canyonlands]
 
@@ -33,14 +66,14 @@
 
              Library of Congress catalog-card No. 74-600043
 
-    [Illustration: U.S. DEPARTMENT OF THE INTERIOR · MARCH 3, 1849]
+    [Illustration: U.S. DEPARTMENT OF THE INTERIOR � MARCH 3, 1849]
 
                  U.S. GOVERNMENT PRINTING OFFICE: 1974
 
 
  For sale by the Superintendent of Documents, U.S. Government Printing
                                  Office
-           Washington, D.C. 20402—Price $2.65 (paper covers)
+           Washington, D.C. 20402--Price $2.65 (paper covers)
                         Stock Number 2401-02498
 
 
@@ -51,7 +84,7 @@
 
                                                                      Page
   A new park is born                                                    1
-  Major Powell’s river expeditions                                      4
+  Major Powell's river expeditions                                      4
   Early history                                                         9
       Prehistoric people                                                9
       Late arrivals                                                    14
@@ -189,14 +222,14 @@ Congress establishing Canyonlands as our thirty-second national park,
 the first addition to the park system since 1956.
 
 The birth of Canyonlands National Park was not without labor pains. In
-the 1930’s virtually all the vast canyon country between Moab, Utah, and
+the 1930's virtually all the vast canyon country between Moab, Utah, and
 Grand Canyon, Ariz., was studied for a projected Escalante National
 Park. But Escalante failed to get off the ground, even when a second
-attempt was made in the 1950’s. Not until another proposal had been made
+attempt was made in the 1950's. Not until another proposal had been made
 and legislative compromises had been worked out did the park
-materialize, this time under a new name—Canyonlands. Among the many
+materialize, this time under a new name--Canyonlands. Among the many
 dignitaries who witnessed the signature on September 12 was one of the
-men most responsible for the park’s creation, park superintendent Bates
+men most responsible for the park's creation, park superintendent Bates
 E. Wilson, who did the pioneer spade work in the field.
 
 The newborn park covered 400 square miles[1] at the junction of the
@@ -208,7 +241,7 @@ by 125 square miles in four separate parcels of land, so the area now
 totals 525 square miles, all in southeastern Utah, as shown on the map
 (fig. 1). The northern boundary was extended to include parts of Taylor
 and Shafer Canyons. The addition at the southeast corner takes in the
-headwaters of Salt and Lavender Canyons and part of Davis’ Canyon. The
+headwaters of Salt and Lavender Canyons and part of Davis' Canyon. The
 largest addition, at the southwest corner, includes grotesquely carved
 areas bearing such colorful names as The Maze, Land of Standing Rocks,
 The Fins, The Doll House (fig. 36), and Ernies Country (named after
@@ -227,8 +260,8 @@ after water is piped up from wells drilled near the mouth of Taylor
 Canyon.
 
 In August 1965, when the Park was but 11 months old, we drove the family
-car over a two-track dirt “road” from Dugout Ranch to Cave
-Spring—temporary headquarters for the Needles district of the park,
+car over a two-track dirt "road" from Dugout Ranch to Cave
+Spring--temporary headquarters for the Needles district of the park,
 whose personnel were housed partly in trailers and partly in the cave.
 Now a modern paved highway, built by the State (Utah Highway 11) for 19
 miles to Dugout Ranch and by San Juan County, the State of Utah, and the
@@ -243,8 +276,8 @@ campground and permanent headquarters. Groceries, gasoline, trailer
 hookups, and charter flights are available at Canyonlands Resort, just
 outside the eastern park boundary. The old cowboy line camp at Cave
 Spring has been restored so that visitors can see this phase of colorful
-Canyonlands history (fig. 6). Except for 2½ miles of partly graded road
-west from Squaw Flat, all travel to the west and south is by
+Canyonlands history (fig. 6). Except for 2-1/2 miles of partly graded
+road west from Squaw Flat, all travel to the west and south is by
 four-wheel-drive vehicle or on foot. In order to reach the confluence of
 the Green and Colorado Rivers, The Grabens, and Chesler and Virginia
 Parks, drivers must conquer formidable Elephant Hill, with its 40
@@ -258,7 +291,7 @@ Bates Wilson, recently retired superintendent not only of Canyonlands
 National Park but also of nearby Arches National Park and of Natural
 Bridges National Monument about 80 miles to the south, is one of the few
 men in the park service who has guided a national park through all
-phases—location, promotion, establishment, and initial development. He
+phases--location, promotion, establishment, and initial development. He
 retired in June 1972 to a ranch along the Colorado River north of Moab.
 
 Unless credited to others, for which grateful acknowledgment is made,
@@ -274,7 +307,7 @@ from which most of the photographs were taken are shown in figure 19.
 
 
 
-Major Powell’s River Expeditions
+Major Powell's River Expeditions
 
 
 Although Major John Wesley Powell was not the first geologist to view
@@ -284,27 +317,27 @@ descriptions of the geography and geology of what was then the largest
 remaining uncharted wilderness in the United States. Many landmarks
 along the canyons in the park were named by Powell and his men during
 those explorations. J. S. Newberry is thought to have been the first
-geologist to view the canyon lands—at least he seems to have been the
+geologist to view the canyon lands--at least he seems to have been the
 first one whose observations were recorded (1861), but the more
 comprehensive findings of Powell (1875) were the ones that made history.
 
-The 100th anniversary of Major Powell’s pioneer exploration of the Green
+The 100th anniversary of Major Powell's pioneer exploration of the Green
 and Colorado Rivers was commemorated in 1969 by a national centennial
 sponsored jointly by the U.S. Department of the Interior, the
 Smithsonian Institution, the National Geographic Society, and many other
 organizations. This touched off many magazine and newspaper articles,
 several commemorative programs and dedications, and several publications
 of lasting interest. Noteworthy among the latter is U.S. Geological
-Survey Professional Paper 669 entitled “The Colorado River Region and
-John Wesley Powell.” Of its four separate parts, two are of special
-interest to our Canyonlands story: part A, “John Wesley Powell: Pioneer
-Statesman of Federal Science,” by Rabbitt (1969) and part C, “Geologic
-History of the Colorado River,” by Hunt (1969). An interesting history
+Survey Professional Paper 669 entitled "The Colorado River Region and
+John Wesley Powell." Of its four separate parts, two are of special
+interest to our Canyonlands story: part A, "John Wesley Powell: Pioneer
+Statesman of Federal Science," by Rabbitt (1969) and part C, "Geologic
+History of the Colorado River," by Hunt (1969). An interesting history
 of the National Park Service by Everhart (1972) was published as part of
 the national park centennial effort. The Powell Society, Ltd., of
-Denver, Colo., was founded mainly to publish four “River Runners’ Guides
+Denver, Colo., was founded mainly to publish four "River Runners' Guides
 to the Canyons of the Green and Colorado Rivers, with Emphasis on
-Geologic Features,” covering five reaches of the two rivers from Flaming
+Geologic Features," covering five reaches of the two rivers from Flaming
 Gorge Dam, Utah, to Grand Canyon, Ariz. One of these by Mutschler (1969)
 covers Labyrinth, Stillwater, and Cataract Canyons, all in Canyonlands
 National Park. Another guidebook by Baars and Molenaar (1971) covers the
@@ -393,7 +426,7 @@ indicate occupation by aborigines from about 3,000-2,000 B.C. to about 1
 A.D. (Hunt, 1956).
 
 Archeologists have found evidence of two occupations by prehistoric
-peoples in and near Canyonlands National Park—the Fremont people around
+peoples in and near Canyonlands National Park--the Fremont people around
 850 or 900 A.D. and the Pueblo or Anasazi people from about 1075 to
 their departure in the late 12th century (Jennings, 1970). Within the
 park, the most densely populated area was along Salt Canyon and its
@@ -405,10 +438,10 @@ The Fremont people, who were mainly hunters, seemingly left no
 artifacts, but they did leave beautiful pictographs, or rock paintings,
 such as the group of ghostly human figures on the sandstone wall of
 Horseshoe Canyon (fig. 2), in the detached unit northwest of the park
-proper (fig. 1). The All American Man (fig. 3), a most unusual “Humpty
-Dumpty” figure painted in red, white, and blue on the wall of a cave
-about 3⅓ miles above the cable across the east fork of Salt Canyon, is
-believed to have been done in the Fremont style, but as shown in the
+proper (fig. 1). The All American Man (fig. 3), a most unusual "Humpty
+Dumpty" figure painted in red, white, and blue on the wall of a cave
+about 3-1/3 miles above the cable across the east fork of Salt Canyon,
+is believed to have been done in the Fremont style, but as shown in the
 photograph, it is next to one of three dwellings in the same cave that
 were built later by the Anasazi people. Tower Ruin (fig. 4) is one of
 many well-preserved granaries built by the Anasazi, who farmed the flood
@@ -424,7 +457,7 @@ plains of creeks such as Salt and Horse Canyons. According to Jennings
     [Illustration: PICTOGRAPHS ON WALL OF HORSESHOE CANYON, believed to
     have been made by Fremont people about 1,000 years ago. Numbered
     chalkmarks 1 foot apart along bottom were made by some previous
-    photographer. Photograph by Walter Meayers Edwards, © 1971 National
+    photographer. Photograph by Walter Meayers Edwards, � 1971 National
     Geographic Society. (Fig. 2)]
 
     [Illustration: THE ALL AMERICAN MAN, on wall of cave in Cedar Mesa
@@ -456,7 +489,7 @@ sandstone beneath. According to Jesse D. Jennings (letter of Mar. 20,
   and are probably the work of Ute tribesmen. The others cannot be
   identified with any specific cultural group, although the earliest may
   be as much as one thousand years old and are probably the work of the
-  so-called “Fremont” peoples * * *
+  so-called "Fremont" peoples * * *
 
 In addition to the designs by the Fremont, Anasazi, and Ute artists, you
 will note a few names and dates as late as 1954.
@@ -479,12 +512,12 @@ their activities is taken mainly from a recent account by Maxine Newell
 (1970), to whose work you are referred for further details.
 
 Bands of Ute and Navajo Indians roamed the canyons and mesas until the
-late 1800’s, but gradually they were driven out and succeeded by pioneer
+late 1800's, but gradually they were driven out and succeeded by pioneer
 cattlemen, the first of whom were George and Silas Green in 1874-75,
 followed by the Taylor brothers in 1880-81. Cowboys named many of the
 natural features of the area, and the Needles country provided the
-scenic background for some of Zane Grey’s western tales and for David
-Lavender’s “One Man’s West.” Lavender Canyon, whose headwaters were
+scenic background for some of Zane Grey's western tales and for David
+Lavender's "One Man's West." Lavender Canyon, whose headwaters were
 recently annexed to the park, was named for him. Visitors to the Needles
 district pass the Dugout Ranch about 7 miles northwest of Newspaper
 Rock. The earliest ranch dwellings were dirt houses built by the
@@ -508,11 +541,11 @@ payrolls, but according to Baker (1971) Butch returned safely to the
 United States and died in the Northwest in 1943 or 1944, and the
 Sundance Kid is reported to have died in Casper, Wyo., in 1958 at age
 98. Art Ekker (Findley, 1971, fig. 3), present owner of Robbers Roost
-Ranch, which contains the former hangout, commented: “A lot of people
+Ranch, which contains the former hangout, commented: "A lot of people
 are sure that Butch and his gang buried some money around Robbers Roost.
 Every so often somebody turns up with a map or a metal detector and
-wants to start digging. They’ve found a lot of rusty tin cans and old
-horseshoes.”
+wants to start digging. They've found a lot of rusty tin cans and old
+horseshoes."
 
     [Illustration: CAVE SPRING LINE CAMP. Above, line-camp exterior,
     showing entrance and corral; below, interior, showing furnishings
@@ -523,7 +556,7 @@ horseshoes.”
 
     [Illustration: Fig. 6, lower image]
 
-The uranium boom of the 1950’s, touched off by Charlie Steen’s fabulous
+The uranium boom of the 1950's, touched off by Charlie Steen's fabulous
 Mi Vida mine south of La Sal, Utah, temporarily skyrocketed the
 population of Moab and sent uranium hunters into every nook and cranny
 of the canyon lands. Many of the jeep trails were first made then, and
@@ -591,19 +624,19 @@ shows the general shape of the land surface in and near Canyonlands
 National Park to the same horizontal scale as it would appear to a
 person in a spacecraft flying at a height of 250,000 feet, or about 48
 miles. This map was prepared by artist John R. Stacy from parts of the
-reverse sides of four plastic relief maps[2]—Salina, Moab, Cortez, and
-Escalante quadrangles, at a scale of 1:250,000—using a simple time- and
+reverse sides of four plastic relief maps[2]--Salina, Moab, Cortez, and
+Escalante quadrangles, at a scale of 1:250,000--using a simple time- and
 money-saving method he devised (Stacy, 1962).
 
 An image of Canyonlands National Park and vicinity from a satellite at a
 height of about 570 miles is shown in figure 7. Note white clouds and
 black cloud shadows on right.
 
-    [Illustration: CANYONLANDS NATIONAL PARK AND VICINITY, from NASA’s
+    [Illustration: CANYONLANDS NATIONAL PARK AND VICINITY, from NASA's
     unmanned Earth Resources Technology Satellite (ERTS-1), at height of
     about 570 miles. The space image map was prepared from simultaneous
-    scanning in three color bands—blue green, red, and near
-    infrared—that were combined to produce a false-color image in which
+    scanning in three color bands--blue green, red, and near
+    infrared--that were combined to produce a false-color image in which
     vigorous green vegetation (forests and irrigated areas) appears
     bright red, water dark blue, and soils and bare rocks various shades
     of blue, blue green, or yellow green. Bright-blue area on west bank
@@ -648,8 +681,8 @@ deposited in lakes, and some, like the Navajo Sandstone, were carried in
 by the wind. The character and thickness of the sedimentary rocks, and
 the names and ages assigned to them by geologists, are shown in the rock
 column in figure 9 and in the cross sections in figures 10 and 15, and
-the history of their deposition is discussed in the chapter “Summary of
-Geologic History.” The rock column was compiled mainly from generalized
+the history of their deposition is discussed in the chapter "Summary of
+Geologic History." The rock column was compiled mainly from generalized
 stratigraphic sections given by Baker (1933, 1946), McKnight (1940),
 Hinrichs and others (1967, 1971b), and F. A. McKeown and P. P. Orkild
 (U.S. Geol. Survey, unpub. data, Mar. 16, 1973).
@@ -824,14 +857,14 @@ sediments of different character, hardness, and thickness to produce
 steep slopes having many cliffs and ledges and generally sharp to
 angular edges rather than the subdued rounded forms of more humid
 regions. This has led geologists to refer to such terrain as having
-“layer-cake geology,” and this is brought out by the profile in the rock
+"layer-cake geology," and this is brought out by the profile in the rock
 column (fig. 9), by the cross section (fig. 10), by figure 15, and by
 many of the other photographs. But the baker of this cake was rather
-careless—not only do the layers range widely in thickness and character,
-but some are wedge shaped, thick on one side of the cake but thin or
-absent on the other. Then too, when he ran out of icing in the midst of
-a layer, he was apt to finish with a different kind or color, for no
-inspector was on the job to insure orderly construction.
+careless--not only do the layers range widely in thickness and
+character, but some are wedge shaped, thick on one side of the cake but
+thin or absent on the other. Then too, when he ran out of icing in the
+midst of a layer, he was apt to finish with a different kind or color,
+for no inspector was on the job to insure orderly construction.
 
 If all the rock strata in the park were present at one locality, their
 sequence and thickness would be those shown on the right-hand side of
@@ -842,7 +875,7 @@ of the strata are exactly alike. This will be brought out in photographs
 of different exposures of rocks in various parts of the park.
 
 An often-asked question is, why are most of the rocks so red? This can
-be answered by one word—iron, the same pigment used in rouge and in
+be answered by one word--iron, the same pigment used in rouge and in
 paint for barns and boxcars. Various oxides of iron, some including
 water, produce not only brick red but also pink, salmon, brown, buff,
 yellow, and even green or bluish green. This does not imply that the
@@ -870,8 +903,8 @@ white or nearly so.
 The map (fig. 1) and cross section (fig. 10) of the park show that in
 general the major features of the landscape lie at three different and
 distinctive levels. A recently erected plaque on Grand View Point
-appropriately refers to these levels as the “Three Worlds.” The high
-plateaus, or mesas, in and adjoining the park dominate the skyline—in
+appropriately refers to these levels as the "Three Worlds." The high
+plateaus, or mesas, in and adjoining the park dominate the skyline--in
 fact, the central one, between the Green and Colorado Rivers, is
 appropriately named Island in the Sky. If you stand on either the east
 or the west shore of this towering cliff-bordered island, you can look
@@ -881,29 +914,29 @@ either side shows relatively flat benches or platforms about halfway to
 the bottom; below these are the generally steep sided or cliff-bordered
 canyons of the two rivers and their larger tributaries. From some
 vantage points along the shore, such as Dead Horse Point (fig. 15) or
-Green River Overlook (fig. 23), you can see the deepest level of all—the
-channels and flood plains of the Green and Colorado Rivers.
+Green River Overlook (fig. 23), you can see the deepest level of
+all--the channels and flood plains of the Green and Colorado Rivers.
 
-What caused the “Three Worlds” and the formidable cliffs supporting the
+What caused the "Three Worlds" and the formidable cliffs supporting the
 high mesas or forming towering monoliths like Angel Arch or Druid Arch
 (figs. 43, 54)? Differences in the composition, hardness, arrangement,
 and thickness of the rock layers determine their ability to withstand
 the forces of fracturing and erosion and hence their tendency to form
 cliffs, ledges, or slopes. Most of the cliff- or ledge-forming rocks are
 sandstones consisting of sand grains deposited by wind or water and
-later cemented together by silica (SiO₂), calcium carbonate (CaCO₃), or
-one of the iron oxides (such as Fe₂O₃), but some hard, resistant ledges
-are made of limestone (calcium carbonate). The rock column (fig. 9)
-shows in general how these rock formations are sculptured by erosion and
-how they protect underlying layers from more rapid erosion. The nearly
-vertical cliffs supporting the highest mesas consist of the
-well-cemented Wingate Sandstone protected above by the even harder
-sandstone of the Kayenta Formation. To borrow from an earlier report of
-mine (Lohman, 1965, p. 17),
+later cemented together by silica (SiO_{2}), calcium carbonate
+(CaCO_{3}), or one of the iron oxides (such as Fe_{2}O_{3}), but some
+hard, resistant ledges are made of limestone (calcium carbonate). The
+rock column (fig. 9) shows in general how these rock formations are
+sculptured by erosion and how they protect underlying layers from more
+rapid erosion. The nearly vertical cliffs supporting the highest mesas
+consist of the well-cemented Wingate Sandstone protected above by the
+even harder sandstone of the Kayenta Formation. To borrow from an
+earlier report of mine (Lohman, 1965, p. 17),
 
   Vertical cliffs and shafts of the Wingate Sandstone endure only where
   the top of the formation is capped by beds of the next younger rock
-  unit—the Kayenta Formation. The Kayenta is much more resistant than
+  unit--the Kayenta Formation. The Kayenta is much more resistant than
   the Wingate, so even a few feet of the Kayenta * * * protect the rock
   beneath.
 
@@ -921,12 +954,12 @@ How to See the Park
 The question of how to see the park has no simple answer, for the park
 is too vast and complex to comprehend by a quick visit to any one of its
 many and varied parts or by any one means of transportation. Some, as
-did Major Powell, view it only from the rivers—by boat plus a few
+did Major Powell, view it only from the rivers--by boat plus a few
 back-breaking climbs up the bordering canyon walls. Others see only the
 small parts reachable by passenger cars. The more venturesome see vastly
 more by jeep, foot, or horseback. And a few prefer to view it as the
-birds do—from the air. Many, those who put aside their magazines long
-enough, get bird’s-eye views without half trying, for Canyonlands is
+birds do--from the air. Many, those who put aside their magazines long
+enough, get bird's-eye views without half trying, for Canyonlands is
 beneath the principal air routes connecting Los Angeles with Grand
 Junction and Denver. Actually, a full appreciation of all the wonders
 and beauties of the park is possible only by combining all these
@@ -936,8 +969,8 @@ square foot of it.
 
 The task clearly before me, then, is how best to present such a complex
 wonderland to you, the reader. The method I selected, after considerable
-thought and a few false starts, is to begin at the top—the high
-mesas—and work my way downward much as the rivers have done in carving
+thought and a few false starts, is to begin at the top--the high
+mesas--and work my way downward much as the rivers have done in carving
 out this fantastic area, to some of the broad benchlands beneath the
 mesas and eventually to the river channels and deep canyons. Although
 the approach I selected may not be the best, and admittedly is but one
@@ -949,7 +982,7 @@ of several that comes to mind, I hope it gets the job done.
                              The High Mesas
 
 
-Even though the “peninsular” mesas east and west of Island in the Sky,
+Even though the "peninsular" mesas east and west of Island in the Sky,
 known respectively as Hatch Point and the Orange Cliffs, lie outside the
 present boundaries, they provide breathtaking views of important
 features within the park, so brief descriptions of them are included
@@ -984,23 +1017,24 @@ The entrance road to Island in the Sky intersects U.S. Highway 163 at a
 point 10 miles northwest of Moab, or 21 miles southeast of Crescent
 Junction on Interstate Highway 70. From U.S. 163 a paved road climbs
 colorful Sevenmile Canyon past sandstone cliffs of the Wingate, Kayenta,
-and Navajo Formations to reach the high mesa. There, just “offshore” to
-the north, are anchored the “battleships” that guard the island—Merrimac
-and Monitor Buttes (fig. 12). These landmarks are composed of the
-Entrada Sandstone—the same rock that forms Church Rock at the entrance
-to the Needles district (fig. 37) and that shapes the spectacular arches
-in Arches National Park. All three members of the Entrada (Wright and
-others, 1962), as noted in the figure 12 caption, are present here as
-well as at Church Rock. Eleven miles from the junction with U.S. Highway
-163 a graded road to the right, called Horsethief Trail, goes 16 miles
-down to the Green River, where it connects with roads following the
-river both upstream and downstream. The road upstream leads to two
-uranium mines in the lower part of Mineral Canyon which were reactivated
-in 1972 and 1973. The switchbacks are quite spectacular and are
-reminiscent of the Shafer Trail. Three miles south of the Horsethief
-Trail turnoff is a fork in the road—to the left the pavement continues
-to Dead Horse Point, and straight ahead a graded road leads southward to
-the Island in the Sky district of Canyonlands National Park.
+and Navajo Formations to reach the high mesa. There, just "offshore" to
+the north, are anchored the "battleships" that guard the
+island--Merrimac and Monitor Buttes (fig. 12). These landmarks are
+composed of the Entrada Sandstone--the same rock that forms Church Rock
+at the entrance to the Needles district (fig. 37) and that shapes the
+spectacular arches in Arches National Park. All three members of the
+Entrada (Wright and others, 1962), as noted in the figure 12 caption,
+are present here as well as at Church Rock. Eleven miles from the
+junction with U.S. Highway 163 a graded road to the right, called
+Horsethief Trail, goes 16 miles down to the Green River, where it
+connects with roads following the river both upstream and downstream.
+The road upstream leads to two uranium mines in the lower part of
+Mineral Canyon which were reactivated in 1972 and 1973. The switchbacks
+are quite spectacular and are reminiscent of the Shafer Trail. Three
+miles south of the Horsethief Trail turnoff is a fork in the road--to
+the left the pavement continues to Dead Horse Point, and straight ahead
+a graded road leads southward to the Island in the Sky district of
+Canyonlands National Park.
 
     [Illustration: MERRIMAC (LEFT) AND MONITOR BUTTES guard north
     entrance to Island in the Sky. White rock near middle is Navajo
@@ -1008,7 +1042,7 @@ the Island in the Sky district of Canyonlands National Park.
     remnant white top of Moab Member, vertical cliffs of Slick Rock
     Member, and sloping base of Dewey Bridge Member. (Fig. 12)]
 
-Most of Island in the Sky has a scattered growth of piñon and juniper
+Most of Island in the Sky has a scattered growth of pi�on and juniper
 trees, but several large flat areas, such as Grays Pasture, contain
 sufficient sandy soil to support a mantle of grass and weeds, which is
 used for grazing; however, grazing in this part of the park will be
@@ -1045,8 +1079,8 @@ of the river 2,000 feet below, hence the name of the point, or at least
 so one version of the story goes. Some versions allude to the wranglers
 as cowboys; others, as horsethieves.
 
-To the northeast we can see the Cane Creek anticline—an upward fold of
-the rocks—behind which loom the La Sal Mountains (fig. 13). A cutaway
+To the northeast we can see the Cane Creek anticline--an upward fold of
+the rocks--behind which loom the La Sal Mountains (fig. 13). A cutaway
 view of a typical anticline is shown in figure 14. A better view of the
 Cane Creek anticline can be seen from Anticline Overlook, as shown in
 figure 31. From our vantage point at Dead Horse Point, we can see much
@@ -1054,10 +1088,10 @@ of Hatch Point, including Anticline Overlook, by looking east and
 southeast. Spectacular views of the northern part of Canyonlands
 National Park lie to the south, southwest, and east. Looking southwest
 (fig. 15), we see most of the rock formations exposed in
-Canyonlands—more than can be seen from any other vantage point in or
+Canyonlands--more than can be seen from any other vantage point in or
 near the park. The names of the visible rock units shown in figure 15
 can be compared with the complete list in the rock column (fig. 9).
-Parts of Shafer dome, a “closed” rounded anticline, are visible in the
+Parts of Shafer dome, a "closed" rounded anticline, are visible in the
 lower left of figure 15 and in the lower right of figure 13. Its general
 domelike shape is outlined by the bluish-white Shafer limestone, a
 marker bed which also caps the bench on the peninsula within the Goose
@@ -1097,13 +1131,13 @@ fig. 35.
 The north entrance to the Island in the Sky district of Canyonlands
 National Park used to be 6 miles south of the junction with the paved
 road to Dead Horse Point, but since the land additions of November 1971,
-it is only 4½ miles south of this junction. A temporary trailer-housed
-entrance station marks the old boundary.
+it is only 4-1/2 miles south of this junction. A temporary
+trailer-housed entrance station marks the old boundary.
 
 
                       SHAFER AND WHITE RIM TRAILS
 
-During the early 1950’s a remarkable but hair-raising road known as
+During the early 1950's a remarkable but hair-raising road known as
 Shafer Trail was cut down the face of the cliffs below The Neck to reach
 the C Group of uranium claims near the head of Lathrop Canyon. It
 branches southward from the park road a mile south of the new entrance,
@@ -1152,7 +1186,7 @@ in the Needles district.
 
                             GRAND VIEW POINT
 
-About a mile southwest of The Neck, the road crosses Grays Pasture—the
+About a mile southwest of The Neck, the road crosses Grays Pasture--the
 widest and flattest part of Island in the Sky. The drive over this flat
 grassland yields not the slightest hint of the awesome cliff-walled
 chasms on either side of the island. Some 5 miles southwest of The Neck,
@@ -1286,7 +1320,7 @@ upper left.
 
     [Illustration: UPHEAVAL DOME, aerial view looking northwest toward
     junction of Upheaval and Taylor Canyons with Labyrinth Canyon of
-    Green River. Photograph by Walter Meayers Edwards, © 1971 National
+    Green River. Photograph by Walter Meayers Edwards, � 1971 National
     Geographic Society. (Fig. 25)]
 
     [Illustration: CUTAWAY VIEW OF SYNCLINE, or downfold of the rocks.
@@ -1319,7 +1353,7 @@ The high mesa east of Canyonlands National Park and the Colorado River
 canyons, called Hatch Point, contains several vantage points ideally
 suited for viewing scenic features of the park and adjacent areas. Hatch
 Point is part of the vast public domain administered by the Bureau of
-Land Management—a sister agency of the Geological Survey and the
+Land Management--a sister agency of the Geological Survey and the
 National Park Service, all in the U.S. Department of the Interior. The
 Bureau, hereinafter referred to simply as the B.L.M., has made many
 improvements on Hatch Point, including fine roads, two modern
@@ -1327,7 +1361,7 @@ campgrounds with sanitary facilities and piped water from wells, and two
 overlooks with protective fences, benches, paths, sanitary facilities,
 and ramadas containing panels that describe the features visible from
 the viewpoints. Because of these improvements, the B.L.M. has
-appropriately named this area “Canyon Rims Recreation Area.”
+appropriately named this area "Canyon Rims Recreation Area."
 
 Geologically, Hatch Point is similar to Island in the Sky. Both are
 bordered by towering cliffs of the Wingate Sandstone capped by the
@@ -1342,7 +1376,7 @@ Campground, nestled in an attractive cove of Entrada Sandstone cliffs,
 and 16 miles from the highway we reach an intersection. From here it is
 7 miles west by paved road to Needles Overlook, 10 miles north to
 Anticline Overlook. Like the other high mesas, Hatch Point contains
-peripheral areas of scattered piñon and juniper trees and large flat
+peripheral areas of scattered pi�on and juniper trees and large flat
 grasslands used for grazing. Grain tanks here and there store winter
 feed for the cattle.
 
@@ -1360,7 +1394,7 @@ the entire Needles district to the southwest, where the important scenic
 features are carved from the underlying Cedar Mesa Sandstone Member of
 the Cutler Formation, referred to hereinafter simply as the Cedar Mesa
 Sandstone. Both these sandstones are missing in the foreground of figure
-27—their place being taken by thin beds of red siltstone, mudstone, and
+27--their place being taken by thin beds of red siltstone, mudstone, and
 sandstone similar to those that comprise the Organ Rock Tongue shown
 between the two sandstones in figure 22. These are additional examples
 of facies changes mentioned earlier (p. 34).
@@ -1376,11 +1410,11 @@ traverse a nearly flat grassy tableland to Hatch Point Campground. In
 figure 1 the campground is shown west of the old road; the new road is
 west of the campground, but no map of the new route was available for
 plotting in figure 1. About a mile before we reach the campground a jeep
-trail heads west then northwest about 5½ miles to Canyonlands Overlook,
-a scant mile from, but some 1,400 feet above, the eastern border of
-Canyonlands National Park. This overlook affords fine views of the
-Colorado River canyons and the eastern shore of Island in the Sky, but
-at present (1973) there are no plans to improve the trail for
+trail heads west then northwest about 5-1/2 miles to Canyonlands
+Overlook, a scant mile from, but some 1,400 feet above, the eastern
+border of Canyonlands National Park. This overlook affords fine views of
+the Colorado River canyons and the eastern shore of Island in the Sky,
+but at present (1973) there are no plans to improve the trail for
 passenger-car travel.
 
 Two miles north of the campground we cross a minor drainage leading
@@ -1391,8 +1425,8 @@ of which is paved, and with the jeep trail going west over Hurrah Pass
 (fig. 30) and thence south along the eastern benches of the canyons of
 the Colorado River to the Needles district of the park. E. Neal Hinrichs
 (U.S. Geol. Survey, oral commun. Feb. 16, 1973) reported specimens of
-blue celestite (strontium sulfate, SrSO₄) and barite (barium sulfate,
-BaSO₄) in the Cutler Formation at a point where a sharp bend of this
+blue celestite (strontium sulfate, SrSO_{4}) and barite (barium sulfate,
+BaSO_{4}) in the Cutler Formation at a point where a sharp bend of this
 jeep trail crosses a fault, or fracture (fig. 56), in the northeast fork
 of Lockhart Canyon (shown in fig. 1 as the easternmost loop of the trail
 about 6 miles northeast of Lockhart Basin). Farther south, the trail
@@ -1412,7 +1446,7 @@ Two and a half miles farther north, or about 2 miles south of Anticline
 Overlook, a short road leads to the west and entirely around a small
 conical butte of the Navajo Sandstone. This new circular drive has not
 yet been formally named and is simply called the U-3 loop, as designated
-in the surveyor’s notebook. It affords splendid views to the west and is
+in the surveyor's notebook. It affords splendid views to the west and is
 to be equipped with picnic tables. Looking west (fig. 29) we see a
 W-shaped loop of the Colorado River, Dead Horse Point on the right
 skyline, and Island in the Sky on the distant skyline. The strata
@@ -1465,7 +1499,7 @@ has been mined at intervals during the last 2 or 3 years.
     on right skyline are shown in figure 12. (Fig. 31)]
 
 To the northwest (fig. 31; see also fig. 13) is a textbook example of a
-rock fold—the Cane Creek anticline—laid bare by the Colorado River
+rock fold--the Cane Creek anticline--laid bare by the Colorado River
 cutting directly across its crest (fig. 1). Anticlines are noted as
 sources of or at least hunting grounds for oil and gas, and this one is
 no exception, although production has been relatively small and was
@@ -1523,12 +1557,12 @@ and subdued. As shown on the map (fig. 1), however, the name Orange
 Cliffs is applied to much of the eastward-facing cliffs, which are made
 of the Wingate Sandstone capped by the Kayenta Formation. Remnants of
 the Navajo Sandstone increase in number to the north and west, where
-remnants of the next two younger rock units—the Carmel Formation and the
-Entrada Sandstone—also occur. Thus, the cliff-forming units dip downward
-beneath younger rocks that form the relatively flat Green River Desert
-to the northwest, also referred to as the San Rafael Desert. Figure 32
-is a view southeastward from The Spur, shown on the map (fig. 1) as the
-northern section of the Orange Cliffs.
+remnants of the next two younger rock units--the Carmel Formation and
+the Entrada Sandstone--also occur. Thus, the cliff-forming units dip
+downward beneath younger rocks that form the relatively flat Green River
+Desert to the northwest, also referred to as the San Rafael Desert.
+Figure 32 is a view southeastward from The Spur, shown on the map (fig.
+1) as the northern section of the Orange Cliffs.
 
 At present (1973), the areas west of the Green River and the main stem
 of the Colorado River are the least accessible of any in the park and in
@@ -1539,7 +1573,7 @@ past the north side of the Horseshoe Canyon Detached Unit (figs. 1, 2)
 and connects with another secondary road to the west, which joins Utah
 Highway 24 at Temple Junction, 20 miles north of Hanksville; near
 Horseshoe Canyon a jeep trail leads south to the Orange Cliffs. Owing to
-blowing sand, these “roads” are not considered reliable for passenger
+blowing sand, these "roads" are not considered reliable for passenger
 cars and are best negotiated by four-wheel-drive vehicles or horses.
 
     [Illustration: VIEW SOUTHEASTWARD FROM THE SPUR, in northern section
@@ -1550,7 +1584,7 @@ cars and are best negotiated by four-wheel-drive vehicles or horses.
     [Illustration: LOOKING NORTH DOWN MILLARD CANYON from head of canyon
     a mile northwest of French Spring. Note small arch or window in the
     Navajo Sandstone at upper left, which is shown in figure 1 as
-    “Arch.” The Navajo is underlain by the cliff-forming Kayenta
+    "Arch." The Navajo is underlain by the cliff-forming Kayenta
     Formation and Wingate Sandstone resting upon a sloping base of the
     Chinle Formation and, farther downstream, ledges and slopes of the
     Moenkopi Formation. Photograph by Parker Hamilton, Flagstaff, Ariz.
@@ -1586,12 +1620,12 @@ several other prominent benchlands.
                   The Maze and Land of Standing Rocks
 
 The Maze, an intricately carved series of canyons and gullies, has been
-called a “Thirty-square-mile puzzle in sandstone” (Findley, 1971, p.
+called a "Thirty-square-mile puzzle in sandstone" (Findley, 1971, p.
 71-73), and one can readily visualize a king-sized rat struggling in
 vain to find a way out. The rock is the Cedar Mesa Sandstone, which here
 underlies red shales beneath the White Rim Sandstone. South of The Maze
 an area containing tall spires was appropriately named by the Indians
-“_Toom’-pin wu-near’ Tu-weap’_,” or “Land of Standing Rocks” (Powell,
+"_Toom'-pin wu-near' Tu-weap'_," or "Land of Standing Rocks" (Powell,
 1875, p. 154).
 
 West of The Maze is Elaterite Basin, so named because of a dark-brown
@@ -1634,11 +1668,11 @@ The Doll House (fig. 36).
 The Needles district is currently (1973) the most highly developed part
 of the unfinished park as the result of design, not accident, for this
 district includes the greatest number and widest variety of spectacular
-features—The Needles proper, The Grabens (pronounced gräbǝns), colossal
+features--The Needles proper, The Grabens (pronounced gr�bens), colossal
 arches and other erosional forms, large meadows such as Squaw Flat and
 Chesler and Virginia Parks, a wide variety of prehistoric ruins and
 pictographs, and Confluence Overlook for viewing the joining of two
-mighty rivers—the Green and the Colorado. Like the White Rim and The
+mighty rivers--the Green and the Colorado. Like the White Rim and The
 Maze, the Needles district is another of the broad benchlands about
 midway between the high mesas and the deep canyons.
 
@@ -1652,11 +1686,11 @@ the Entrada Sandstone, such as Church Rock, and reaches the first of two
 summits 3 miles west of Highway 163. The road crosses a broad gentle
 valley in the Navajo Sandstone, reaches the second summit about 10 miles
 from the highway, then descends steeply through the Navajo Sandstone and
-part of the Kayenta Formation to Indian Creek, 1½ miles below, and
+part of the Kayenta Formation to Indian Creek, 1-1/2 miles below, and
 follows this creek nearly to The Needles. Half a mile down the canyon
 takes us to the top of the cliff-forming Wingate Sandstone, and another
 half mile brings us to Indian Creek State Park and its striking
-Newspaper Rock (fig. 5). Another 1¾ miles takes us to the base of the
+Newspaper Rock (fig. 5). Another 1-3/4 miles takes us to the base of the
 Wingate and top of the underlying Chinle Formation, which forms the red
 slope beneath the cliffs.
 
@@ -1664,7 +1698,7 @@ Historic Dugout Ranch (p. 14) is 19 miles west of the highway, and from
 here a dry-weather road leads southward up north Cottonwood Creek 37
 miles to Beef Basin and connects with roads to Elk Ridge and the Bears
 Ears, both just west of the Abajo Mountains. Just west of the ranch we
-get a good view ahead of two historic landmarks—North and South
+get a good view ahead of two historic landmarks--North and South
 Six-Shooter Peaks (fig. 38), so named because of their resemblance to a
 pair of revolvers pointing skyward. The guns are sculptured from slivers
 of Wingate Sandstone resting upon conical mounds of the Chinle. These
@@ -1693,7 +1727,7 @@ Lavender Canyon, and the right-hand fork goes into Davis Canyon.
 Headwaters of both these canyons are new additions to the park.
 
 The red Organ Rock Tongue of the Cutler Formation is seen about 3 miles
-beyond the turnoff, or about 6 miles west of Dugout Ranch. Another 1½
+beyond the turnoff, or about 6 miles west of Dugout Ranch. Another 1-1/2
 miles takes us down in the rock column (fig. 9) to the top of the Cedar
 Mesa Sandstone. The White Rim Sandstone, which forms such a prominent
 bench around the southern part of Island in the Sky (figs. 20-23) and
@@ -1723,7 +1757,7 @@ Mesa Sandstone and underlying rocks, the Needles district can be divided
 into three differing areas: (1) an eastern area where the rocks are
 relatively undeformed but are carved into an intricate series of
 canyons, including Salt Canyon and the upper reaches of Davis and
-Lavender Canyons—the section of the district that contains most of the
+Lavender Canyons--the section of the district that contains most of the
 arches and Indian ruins; (2) The Needles proper, where tensional forces
 have cracked the brittle Cedar Mesa Sandstone into a crazy-quilt pattern
 of square to rectangular blocks separated by joints widened by erosion,
@@ -1748,10 +1782,10 @@ and alcoves in the sandstone hills along the west side afford excellent
 semi-private campsites, each of which has its own paved access road,
 picnic table, and trash can (fig. 39). Moreover, ground water at shallow
 depth in the underlying sandstone has encouraged the growth of
-exceptionally large piñon and juniper trees that provide welcome shade.
+exceptionally large pi�on and juniper trees that provide welcome shade.
 
     [Illustration: SQUAW FLAT CAMPGROUND, in the Needles district, in
-    Cedar Mesa Sandstone. Large piñon and juniper trees draw ground
+    Cedar Mesa Sandstone. Large pi�on and juniper trees draw ground
     water from this sandstone. (Fig. 39)]
 
 
@@ -1777,29 +1811,29 @@ Maze, west of the Green River.
     Service. (Fig. 40)]
 
 The massive sandstone beds of the Cedar Mesa are composed of sand grains
-cemented together by calcium carbonate (CaCO₃), which also forms the
+cemented together by calcium carbonate (CaCO_{3}), which also forms the
 mineral called calcite and the rock known as limestone. Limestone and
 calcite are soluble in acid, even weak acid such as carbonic acid
-(H·HCO₃), formed by solution of carbon dioxide (CO₂) in water. Ground
-water, found everywhere in rock openings at differing depths beneath the
-surface, contains considerable dissolved carbon dioxide derived from
-decaying organic matter in soil, from the atmosphere, and from other
-sources. Even rain water and snow contain small amounts absorbed from
-the atmosphere—enough to dissolve small amounts of limestone or of
-calcite cement in sandstone. The calcite cement in the Cedar Mesa and
-many other sandstones is unevenly distributed, so the cement is removed
-first from places that contain the least amounts, and once the cement is
-dissolved, the loose sand grains are carried away by gravity, wind, or
-water. Thus, relatively thin walls of sandstone containing irregularly
-distributed patches of soluble cement are prime targets for the
-formation of potholes (fig. 46), alcoves, and caves. Once a breakthrough
-occurs, weakened chunks from the ceiling tend to fall off, and arches of
-various shapes are produced, because an arch is naturally the strongest
-form that can support the overlying rock load. Man, from the ancient
-Greeks, Romans, and Egyptians to modern day, has long made use of arches
-in building bridges, aqueducts, temples, cathedrals, and other enduring
-edifices. All the spectacular arches we are about to see were carved
-from the Cedar Mesa Sandstone.
+(H�HCO_{3}), formed by solution of carbon dioxide (CO_{2}) in water.
+Ground water, found everywhere in rock openings at differing depths
+beneath the surface, contains considerable dissolved carbon dioxide
+derived from decaying organic matter in soil, from the atmosphere, and
+from other sources. Even rain water and snow contain small amounts
+absorbed from the atmosphere--enough to dissolve small amounts of
+limestone or of calcite cement in sandstone. The calcite cement in the
+Cedar Mesa and many other sandstones is unevenly distributed, so the
+cement is removed first from places that contain the least amounts, and
+once the cement is dissolved, the loose sand grains are carried away by
+gravity, wind, or water. Thus, relatively thin walls of sandstone
+containing irregularly distributed patches of soluble cement are prime
+targets for the formation of potholes (fig. 46), alcoves, and caves.
+Once a breakthrough occurs, weakened chunks from the ceiling tend to
+fall off, and arches of various shapes are produced, because an arch is
+naturally the strongest form that can support the overlying rock load.
+Man, from the ancient Greeks, Romans, and Egyptians to modern day, has
+long made use of arches in building bridges, aqueducts, temples,
+cathedrals, and other enduring edifices. All the spectacular arches we
+are about to see were carved from the Cedar Mesa Sandstone.
 
 Let us begin our tour of Salt and Horse Canyons by driving a
 four-wheel-drive vehicle eastward from the fine campground at Squaw
@@ -1823,10 +1857,10 @@ quicksand, which occurs when the sand is fully saturated; hence, summer
 thundershowers sometimes require delaying or postponing the trip. When
 in doubt, consult a park ranger for expected weather and trail
 conditions. Thundershowers sometimes occur so suddenly and violently as
-to cause serious floods, and the “road” is closed when heavy rain is
+to cause serious floods, and the "road" is closed when heavy rain is
 expected. However, if an unexpected storm occurs while you are up in the
 canyon, try to reach high ground and wait until the flood subsides. If
-you do not have time to get your vehicle out of the flood’s path, at
+you do not have time to get your vehicle out of the flood's path, at
 least get yourself and passengers to a safe spot.
 
     [Illustration: PAUL BUNYANS POTTY, on east wall of Horse Canyon.
@@ -1835,27 +1869,27 @@ least get yourself and passengers to a safe spot.
 Two and a half miles south of Cave Spring we reach the confluence with
 Horse Canyon, marked by a sign at the Y giving distances to points of
 interest up each canyon. Let us try Horse Canyon first. After about a
-mile we pass Paul Bunyans Potty on the left—one of the most aptly titled
-features of the park (fig. 42). Two miles south of the Y is Keyhole
-Ruin, nestled in a cleft high on the cliff to our left—a granary built
-by the Anasazi. Here we face another Y. The left fork leads half a mile
-east to Tower Ruin (fig. 4), one of the largest and best preserved
-Anasazi granaries in the park. The right fork takes us on up Horse
-Canyon, and in about 2 miles we pass Gothic Arch on the right. In 2 more
-miles, 4 miles from Salt Canyon, a short hike up the tributary to the
-right leads to Castle Arch and Thirteen Faces. Assuming we have taken
-photographs of the important features along the way, it probably is
-about time to return to camp at Squaw Flat, unless we choose to spend
+mile we pass Paul Bunyans Potty on the left--one of the most aptly
+titled features of the park (fig. 42). Two miles south of the Y is
+Keyhole Ruin, nestled in a cleft high on the cliff to our left--a
+granary built by the Anasazi. Here we face another Y. The left fork
+leads half a mile east to Tower Ruin (fig. 4), one of the largest and
+best preserved Anasazi granaries in the park. The right fork takes us on
+up Horse Canyon, and in about 2 miles we pass Gothic Arch on the right.
+In 2 more miles, 4 miles from Salt Canyon, a short hike up the tributary
+to the right leads to Castle Arch and Thirteen Faces. Assuming we have
+taken photographs of the important features along the way, it probably
+is about time to return to camp at Squaw Flat, unless we choose to spend
 the night at Peek-a-boo Spring and primitive campground in Salt Canyon,
 about 1.2 miles above the confluence with Horse Canyon.
 
-Another drive takes us up Salt Canyon 8½ miles past the confluence with
-Horse Canyon to another confluence and Y, which has a primitive campsite
-without water. One mile up the left, or southeast, tributary is a
-parking area where we begin the ½-mile walk to Angel Arch, considered by
-many people to be the most beautiful and spectacular arch in the park if
-not in the entire canyon country. Angel Arch was drawn for the front
-cover by John R. Stacy and is pictured in figure 43.
+Another drive takes us up Salt Canyon 8-1/2 miles past the confluence
+with Horse Canyon to another confluence and Y, which has a primitive
+campsite without water. One mile up the left, or southeast, tributary is
+a parking area where we begin the 1/2-mile walk to Angel Arch,
+considered by many people to be the most beautiful and spectacular arch
+in the park if not in the entire canyon country. Angel Arch was drawn
+for the front cover by John R. Stacy and is pictured in figure 43.
 
     [Illustration: Petroglyph]
 
@@ -1865,13 +1899,14 @@ cover by John R. Stacy and is pictured in figure 43.
     [Illustration: FISHEYE ARCH, along upper Salt Canyon, looking north.
     Photograph by National Park Service. (Fig. 44)]
 
-From the last Y we can proceed only about 2½ miles farther up main Salt
-Canyon by vehicle, and the remaining features shown on the map (fig. 1)
-can be reached only on foot. The All American Man, a unique pictograph
-referred to earlier (fig. 3), is about 3½ miles up the canyon. Those
-hardy souls who wish to hike many additional miles to the head of Salt
-Canyon will be rewarded with views of four additional arches and several
-ruins. Two of these arches are shown in figures 44 and 45.
+From the last Y we can proceed only about 2-1/2 miles farther up main
+Salt Canyon by vehicle, and the remaining features shown on the map
+(fig. 1) can be reached only on foot. The All American Man, a unique
+pictograph referred to earlier (fig. 3), is about 3-1/2 miles up the
+canyon. Those hardy souls who wish to hike many additional miles to the
+head of Salt Canyon will be rewarded with views of four additional
+arches and several ruins. Two of these arches are shown in figures 44
+and 45.
 
 The more adventuresome may wish to explore upper Lavender and Davis
 Canyons by driving up the sand washes in a four-wheel-drive vehicle, but
@@ -1900,7 +1935,7 @@ figure 48 shows one of the arches in Davis Canon.
     49)]
 
     [Illustration: CHESLER PARK IN THE NEEDLES, aerial view looking
-    northeast. Photograph by Walter Meayers Edwards, © 1971 National
+    northeast. Photograph by Walter Meayers Edwards, � 1971 National
     Geographic Society. (Fig. 50)]
 
 The northeastern edge of The Needles proper can be seen from Squaw Flat
@@ -1918,12 +1953,12 @@ short hikes.
     right, and Cataract Canyon behind. Photograph by U.S. Army Air
     Force. (Fig. 51)]
 
-Ordinary passenger cars now can go 2¾ miles west of Squaw Flat to Soda
-Spring, at the east base of Elephant Hill, but beyond Soda Spring
+Ordinary passenger cars now can go 2-3/4 miles west of Squaw Flat to
+Soda Spring, at the east base of Elephant Hill, but beyond Soda Spring
 four-wheel-drive vehicles should be used. Some people conquer the hill
 in dune buggies or on motorcycles, but this is considered quite
-dangerous. Both sides of this short (1¼ miles) but formidable hill have
-switchback curves too sharp to negotiate in the regular manner, so
+dangerous. Both sides of this short (1-1/4 miles) but formidable hill
+have switchback curves too sharp to negotiate in the regular manner, so
 special driving techniques must be followed. On the east side, you must
 drive out on a flat rock, jockey back and forth until turned completely
 around, then proceed up the hill. On the west side, you descend a
@@ -1947,7 +1982,7 @@ From the Devils Kitchen, the road turns abruptly westward for about half
 a mile to another Y in about the middle of Devils Lane, one of the
 larger grabens and one of two whose entire length is traversed by roads,
 as shown on the map (fig. 1). Only the left fork is a two-way road, so
-let us take the left fork 2¾ miles southwestward to the next road
+let us take the left fork 2-3/4 miles southwestward to the next road
 junction. About halfway down Devils Lane, a fault crossing the graben
 has created a narrow steep ridge appropriately called SOB Hill, because
 the road over it creates a challenge that some vehicles fail to meet on
@@ -1962,19 +1997,19 @@ containing a central island of needles. Because of vehicular damage to
 meadow vegetation, the National Park Service found it necessary to close
 the road. To reach Chesler Park now, vehicles must go right a short
 distance to the Chesler Canyon turnoff, then left about half a mile to a
-parking area. From here, a ½-mile hike east through the narrow Joint
+parking area. From here, a 1/2-mile hike east through the narrow Joint
 Trail gets us to the south side of Chesler Park, where we join the
 abandoned road to reach the northeast corner of the park and the trails
 into The Needles proper (fig. 1).
 
-This change adds 1¾ miles (one way) to the hike to Druid Arch, making
-the round trip about 11½ miles. At the old trailhead, near the northeast
-corner of Chesler Park, is a sign proclaiming the need for rubber-soled
-shoes and water, and I strongly support these admonitions, for much of
-the hike is on bare smooth sandstone and includes steep slopes and
-_generally_ dry waterfalls. The hike should not be attempted by anyone
-not in good physical condition, and it should not be undertaken alone;
-two or more people should travel together.
+This change adds 1-3/4 miles (one way) to the hike to Druid Arch, making
+the round trip about 11-1/2 miles. At the old trailhead, near the
+northeast corner of Chesler Park, is a sign proclaiming the need for
+rubber-soled shoes and water, and I strongly support these admonitions,
+for much of the hike is on bare smooth sandstone and includes steep
+slopes and _generally_ dry waterfalls. The hike should not be attempted
+by anyone not in good physical condition, and it should not be
+undertaken alone; two or more people should travel together.
 
 As shown in figure 52, the trail to Druid Arch from Chesler Park starts
 out on bare Cedar Mesa Sandstone marked by a succession of rock cairns,
@@ -1990,14 +2025,14 @@ original calcium carbonate parts have been locally replaced by jasper
 (red iron-bearing silica). When at last the weary hiker makes the steep
 climb out of the canyon and rounds the final bare-rock curve, the sudden
 and striking view of Druid Arch (fig. 54) seems worth every bit of the
-effort—at least it was to me and my hiking companion.
+effort--at least it was to me and my hiking companion.
 
 After my friend and I hiked to Druid Arch and after the length of this
-route was increased to a round-trip distance of 11½ miles, a new route
-was constructed having a round-trip length of only 8½ miles. This new
-trail starts at the end of the passenger-car road at the east edge of
-Elephant Hill, goes 1¼ miles southwest to join an older trail in
-Elephant Canyon, then follows this canyon 3 miles south to the arch.
+route was increased to a round-trip distance of 11-1/2 miles, a new
+route was constructed having a round-trip length of only 8-1/2 miles.
+This new trail starts at the end of the passenger-car road at the east
+edge of Elephant Hill, goes 1-1/4 miles southwest to join an older trail
+in Elephant Canyon, then follows this canyon 3 miles south to the arch.
 
     [Illustration: TRAIL TO DRUID ARCH, near its beginning at northeast
     corner of Chesler Park, marked only by rock cairns, two of which are
@@ -2041,7 +2076,7 @@ The Grabens range in width from about 7 or 8 feet at the north end of
 Devils Pocket to nearly 2,000 feet at the south end of Red Lake Canyon,
 but the average width is about 500 feet. The floors of The Grabens are
 covered by soil and grass, but the displacement along the faults is
-believed to approximate the height of the walls—nearly 300 feet. That
+believed to approximate the height of the walls--nearly 300 feet. That
 The Grabens are of fairly recent origin is attested by the fact that
 most of the walls are vertical fault faces showing little sign of
 erosion (fig. 57); that no through drainage has yet been established in
@@ -2055,7 +2090,7 @@ the faulting.
     From Hansen (1969, p. 123). See also figure 76. (Fig. 55)]
 
     [Illustration: CUTAWAY VIEW OF NORMAL FAULT, resulting from tension
-    in and lengthening of the earth’s crust. Note amount of displacement
+    in and lengthening of the earth's crust. Note amount of displacement
     and repetition of strata. Compare with figure 76. From Hansen (1969,
     p. 116). (Fig. 56)]
 
@@ -2069,10 +2104,10 @@ road turning right returns to Elephant Hill via part of Elephant Canyon
 (fig. 58).
 
 About 2 miles to the northwest we cross the north end of Cyclone Canyon,
-the largest graben. It contains a road 3½ miles long and is well worth
-seeing. About one-half mile from the south end, an old trail follows Red
-Lake and Lower Red Lake Canyons to the Colorado River across from
-Spanish Bottom (figs. 1, 61).
+the largest graben. It contains a road 3-1/2 miles long and is well
+worth seeing. About one-half mile from the south end, an old trail
+follows Red Lake and Lower Red Lake Canyons to the Colorado River across
+from Spanish Bottom (figs. 1, 61).
 
 From near the north end of Cyclone Canyon (figs. 1, 59), we drive west
 three-fourths mile to a parking area and hike one-half mile to an
@@ -2102,7 +2137,7 @@ chapter.
     Colorado River, which here is followed by axis of Meander anticline.
     (See p. 108). Cliff below overhanging rock resembles profile of a
     man; the rock resembles his hat. Photograph by Walter Meayers
-    Edwards, © 1971 National Geographic Society. (Fig. 61)]
+    Edwards, � 1971 National Geographic Society. (Fig. 61)]
 
 
 
@@ -2111,9 +2146,9 @@ Canyons of the Green and Colorado Rivers
 
 
 We have discussed two of the three major topographic divisions of the
-park—the high mesas and the benchlands—and there remains to consider the
-third division—the canyons of the mighty Green and Colorado Rivers and
-some of their tributaries. After we discuss a few features common to
+park--the high mesas and the benchlands--and there remains to consider
+the third division--the canyons of the mighty Green and Colorado Rivers
+and some of their tributaries. After we discuss a few features common to
 both rivers, we will take up the details of each river.
 
 A glance at the map (fig. 1) shows that above the confluence both rivers
@@ -2124,20 +2159,20 @@ contrast, the main stem of the Colorado River below the confluence is
 considerably straighter. Not apparent on the map are the facts that the
 crooked rivers above the confluence have very gentle grades and are free
 from rapids or falls, whereas a few miles south of the confluence the
-main stem plunges into Cataract Canyon—the steepest and wildest reach of
-the river, containing 64 rapids. These differences are partly explicable
-on the basis of the geologic structure and character of the rocks
-through which the rivers have cut. Above the confluence, the soft strata
-dip gently northward, so in flowing generally southward the two rivers
-are cutting “against the grain,” which tends to impede their flow and
-thus reduce their grades. Below the confluence, the hard limestones of
-the Hermosa Formation lie relatively flat for several miles and then
-begin to dip gently southward, thus allowing the river to cut “with the
-grain” and therefore drop more rapidly.
+main stem plunges into Cataract Canyon--the steepest and wildest reach
+of the river, containing 64 rapids. These differences are partly
+explicable on the basis of the geologic structure and character of the
+rocks through which the rivers have cut. Above the confluence, the soft
+strata dip gently northward, so in flowing generally southward the two
+rivers are cutting "against the grain," which tends to impede their flow
+and thus reduce their grades. Below the confluence, the hard limestones
+of the Hermosa Formation lie relatively flat for several miles and then
+begin to dip gently southward, thus allowing the river to cut "with the
+grain" and therefore drop more rapidly.
 
 The quiet, smooth waters above the confluence permit power boating
 between the towns of Green River, Utah, and Moab during part of the
-year, whereas the rapids below Spanish Bottom, 3½ miles below the
+year, whereas the rapids below Spanish Bottom, 3-1/2 miles below the
 confluence, restrict river travel to float trips using sturdy boats or
 rafts.
 
@@ -2173,13 +2208,13 @@ meanders form? They probably attained their serpentine shape while
 cutting in softer, younger material, which long ago was removed by
 erosion, and then continued to cut their crooked channels down, until
 they created the deep rock-walled canyons in which they now flow as
-“entrenched” meanders.
+"entrenched" meanders.
 
 Meandering streams tend to shorten their lengths from time to time by
 cutting through narrow walls between adjacent loops, leaving abandoned
 horseshoe-shaped channels or lakes. In most of the United States these
 are known as oxbows or cutoff meanders, but in the desert Southwest they
-are commonly called by the Spanish term “rincon.” Cutoffs are common
+are commonly called by the Spanish term "rincon." Cutoffs are common
 along soft alluvial channels such as the lower Mississippi River valley
 but are rare along channels whose meanders are entrenched into hard
 rock. Thus, there have been many natural (and several manmade) cutoffs
@@ -2189,7 +2224,7 @@ million or so years ago, during the Pleistocene Epoch (figs. 65, 80).
 
 Mark Twain served several years as an expert riverboat pilot on the
 Mississippi River during which several cutoffs took place. Chapter 27 of
-his “Life on the Mississippi” contains sage references to both natural
+his "Life on the Mississippi" contains sage references to both natural
 and artificial cutoffs and concludes with a few good-natured jibes at
 geologists in particular and scientists in general:
 
@@ -2201,18 +2236,18 @@ geologists in particular and scientists in general:
   and seventy-three miles at present.
 
   Now, if I wanted to be one of those ponderous scientific people, and
-  “let on” to prove what had occurred in the remote past by what had
+  "let on" to prove what had occurred in the remote past by what had
   occurred in a given time in the recent past, or what will occur in the
   far future by what has occurred in late years, what an opportunity is
   here! Geology never had such a chance, nor such exact data to argue
-  from! Nor “development of species,” either! Glacial epochs are great
-  things, but they are vague—vague. Please observe:
+  from! Nor "development of species," either! Glacial epochs are great
+  things, but they are vague--vague. Please observe:
 
   In the space of one hundred and seventy-six years the Lower
   Mississippi has shortened itself two hundred and forty two miles. That
   is an average of a trifle over one mile and a third per year.
   Therefore, any calm person, who is not blind or idiotic, can see that
-  in the Old Oölitic Silurian Period, just a million years ago next
+  in the Old O�litic Silurian Period, just a million years ago next
   November, the Lower Mississippi River was upward of one million three
   hundred thousand miles long, and stuck out over the Gulf of Mexico
   like a fishing rod. And by the same token any person can see that
@@ -2229,11 +2264,11 @@ geologists in particular and scientists in general:
 Much more has been written about the Green River and the main stem of
 the Colorado than about the Colorado above the confluence (the former
 Grand River), because all but one of the early float trips began on the
-Green. The first reports concerning Powell’s memorable voyages of 1869
+Green. The first reports concerning Powell's memorable voyages of 1869
 and 1871 were his articles published in Scribners Monthly during 1874
-and 1875 followed by his formal 1875 report “Exploration of the Colorado
-River of the West and Its Tributaries.” As pointed out by Porter (1969,
-p. 21), however, Powell’s narrative
+and 1875 followed by his formal 1875 report "Exploration of the Colorado
+River of the West and Its Tributaries." As pointed out by Porter (1969,
+p. 21), however, Powell's narrative
 
   is written _as if_ everything chronicled therein occurred during the
   first trip. Events which actually occurred in 1871 and 1872 are
@@ -2243,23 +2278,23 @@ p. 21), however, Powell’s narrative
   photographs taken by Beaman and Hillers between 1871 and 1874, but
   this fact is not noted.
 
-For these reasons, Porter’s account contains Powell’s diary of the first
+For these reasons, Porter's account contains Powell's diary of the first
 (1869) trip and many of the missing photographs, plus his own beautiful
 color prints. Much more complete and accurate accounts of the 1871
 voyage than those of Powell, including many of the photographs taken by
 Beaman and Hillers, were given by Dellenbaugh (1902, 1962), who was a
-member of Powell’s 1871 expedition.
+member of Powell's 1871 expedition.
 
-Numerous river trips were undertaken in the years following Powell’s
+Numerous river trips were undertaken in the years following Powell's
 pioneering expeditions. The ill-fated Brown-Stanton voyage of 1889-90
 included starts on both the Grand and the Green Rivers. (See section on
-“Colorado River.”) More successful were Nathan Galloway and William
+"Colorado River.") More successful were Nathan Galloway and William
 Richmond, trappers who left Henrys Fork, Wyo., late in 1896 and reached
 Needles, Calif., on February 10, 1897 (Kolb, 1927, p. 338). Trappers
 Charles S. Russell, E. R. Monette, and Bert Loper left Green River,
 Utah, in three steel boats on September 20, 1907; Russell and Monette
 reached Needles in one boat in February 1908, but Loper was drowned.
-Dellenbaugh’s 1902 book was carried by the Kolb brothers as a guide for
+Dellenbaugh's 1902 book was carried by the Kolb brothers as a guide for
 their 1911 trip down the river (Kolb, 1927). In addition to making
 superb still photographs, the Kolb brothers took the first moving
 pictures in the canyons, and these are still being shown in the Kolb
@@ -2273,7 +2308,7 @@ in two reports (La Rue, 1916, 1925). The 1916 report also contains (p.
 16-22) a good condensed account of earlier explorations and voyages from
 1531 through 1911, taken in part from Dellenbaugh (1902).
 
-As noted earlier, a modern river runners’ guide by Mutschler (1969),
+As noted earlier, a modern river runners' guide by Mutschler (1969),
 which logs the Green and Colorado Rivers from Green River, Utah, to Lake
 Powell, is now available. River mileages in this log were taken from
 detailed topographic maps of both rivers prepared under the direction of
@@ -2321,7 +2356,7 @@ southern tip of Island in the Sky.
 
 At the mouth of Horseshoe Canyon, about 3 miles below Bowknot Bend, we
 pass a large rincon where the Green River shortened its course by about
-3 miles. Some idea of the rincon’s antiquity is gained from the facts
+3 miles. Some idea of the rincon's antiquity is gained from the facts
 that the river is now some 350 feet lower than at cutoff time, whereas
 Bowknot Bend (fig. 62) has shown no visible deepening in 97 years. This
 rincon was not noted by Powell or other early voyagers, seemingly
@@ -2331,8 +2366,8 @@ This rincon and Jackson Hole along the Colorado River may be as old as
 late Tertiary (fig. 80).
 
 At a point reported to be 350 yards above the mouth of Hell Roaring
-Canyon, which enters from the east about 3½ miles below the rincon, an
-early day trapper named Julien left his mark. Stone (1932, p. 69, pl.
+Canyon, which enters from the east about 3-1/2 miles below the rincon,
+an early day trapper named Julien left his mark. Stone (1932, p. 69, pl.
 39A) seems to have been the first river runner to find (from a
 description given him by a Mr. Wheeler at Green River), record, and
 photograph the inscription shown in figure 63. Mutschler (1969, p. 31)
@@ -2344,7 +2379,7 @@ confluence, but it is now covered by Lake Powell (Mutschler, 1969, p.
 
 Some boaters are met by car and taken out to Moab or Green River via the
 Horsethief Trail (fig. 1), just north of the park. The road along the
-river here continues south for 6½ miles to the mouths of Taylor and
+river here continues south for 6-1/2 miles to the mouths of Taylor and
 Upheaval Canyons, where it becomes the White Rim Trail.
 
     [Illustration: INSCRIPTION BY JULIEN, near mouth of Hell Roaring
@@ -2354,16 +2389,16 @@ Upheaval Canyons, where it becomes the White Rim Trail.
 
 Coming down the Green River, we enter Canyonlands National Park where
 the Grand-San Juan county line meets the Emery-Wayne county line (fig.
-1), about 2¼ miles north of Taylor and Upheaval Canyons. The National
+1), about 2-1/4 miles north of Taylor and Upheaval Canyons. The National
 Park Service had three successful test wells put down in Taylor Canyon,
 and water under artesian pressure was found in the White Rim Sandstone
 at depths of 373 to 482 feet. When funds become available, they hope to
 complete one or more of these wells and pump the water up to Island in
 the Sky, where two dry holes were drilled earlier.
 
-About 5½ miles below Upheaval Canyon is an interesting ruin on a hill in
-the middle of a large nearly closed loop of the river enclosing Fort
-Bottom. This was noted by Dellenbaugh (1902) during Powell’s 1871 trip
+About 5-1/2 miles below Upheaval Canyon is an interesting ruin on a hill
+in the middle of a large nearly closed loop of the river enclosing Fort
+Bottom. This was noted by Dellenbaugh (1902) during Powell's 1871 trip
 and was described in more detail by Mutschler (1969, p. 33-34):
 
   The ruin consists of two, two-story, interconnected, crudely circular
@@ -2382,10 +2417,10 @@ At about the mouth of Millard Canyon, we leave Labyrinth Canyon and
 enter Stillwater Canyon, aptly named by members of the 1869 Powell
 voyage (Dellenbaugh, 1902, p. 276). The beginning of Stillwater Canyon
 is marked by vertical walls of the White Rim Sandstone. From here
-Powell’s men observed a butte to the southwest thought to resemble a
-fallen cross and named it “Butte of the Cross.” Farther downstream they
+Powell's men observed a butte to the southwest thought to resemble a
+fallen cross and named it "Butte of the Cross." Farther downstream they
 realized they had been looking at two buttes, a small one in front of a
-larger one, so the feature was renamed “Buttes of the Cross.” An aerial
+larger one, so the feature was renamed "Buttes of the Cross." An aerial
 view of Buttes of the Cross is shown in figure 64.
 
     [Illustration: BUTTES OF THE CROSS, looking southwest from the air.
@@ -2400,7 +2435,7 @@ view of Buttes of the Cross is shown in figure 64.
     Photograph by National Park Service. (Fig. 64)]
 
 About 2 miles below the mouth of Millard Canyon, at Anderson Bottom, we
-reach one of the most interesting features on the river—the most recent
+reach one of the most interesting features on the river--the most recent
 rincon of a major river in the park, if not in the entire canyon
 country. Although some rincons are more recent, they are along minor
 tributaries such as Indian Creek (fig. 73). The cutoff at Anderson
@@ -2453,10 +2488,10 @@ River.
 
 As indicated earlier, all but one of the early river voyages began on
 the Green River. The Grand (Colorado) River above the confluence was
-neglected for some 18 years after Powell’s second voyage, until, in
+neglected for some 18 years after Powell's second voyage, until, in
 1889, Frank M. Brown organized a company for construction of the
 proposed Denver, Colorado Canyon, and Pacific Railway. This railroad was
-to carry coal from mines in Colorado over a “water-level” line through
+to carry coal from mines in Colorado over a "water-level" line through
 the canyons of the Colorado River to the Gulf of California some 1,200
 miles away; from there the coal would presumably be shipped to ports as
 far north as San Francisco (Dellenbaugh, 1902, p. 343-369). On March 26,
@@ -2472,7 +2507,7 @@ the railroad at Green River, Utah. Brown, who had returned from the
 East, his newly appointed chief engineer, Robert Brewster Stanton, and
 14 others in six ill-designed boats of cedar, rather than oak, left
 Green River on May 25, 1889. Against the advice of Major Powell and A.
-H. Thompson, Powell’s topographer on the 1871 trip, they carried no life
+H. Thompson, Powell's topographer on the 1871 trip, they carried no life
 preservers. After many mishaps, Brown and two others were drowned near
 the head of Marble Canyon, and the ill-fated expedition was temporarily
 halted. However, the indefatigable Stanton contracted for new boats
@@ -2485,7 +2520,7 @@ Although the Colorado River enters Canyonlands National Park about 33
 river miles below Moab, most boaters or floaters begin their voyage
 either at Moab or near Potash, and most travelers of the White Rim Trail
 begin at Moab, so we will start our trip at Moab. No logs or river
-runners’ guides are available as yet for the reach from Moab to Potash,
+runners' guides are available as yet for the reach from Moab to Potash,
 but below Potash some details of the geology have been described by
 Baars in Baars and Molenaar (1971, p. 59-87).
 
@@ -2493,7 +2528,7 @@ As noted at the beginning of this chapter, above the confluence both the
 Green and Colorado Rivers are very crooked, have very low grades, and
 are free from rapids. As with the Green, the soft rocks along the
 Colorado have a generally low northward dip that partly explains the
-river’s gentle grade and its southward flow through increasingly lower
+river's gentle grade and its southward flow through increasingly lower
 and older strata. Unlike the Green, however, the gentle dips of the
 strata in the canyons of the Colorado are interrupted by several gentle
 anticlinal (fig. 14) and synclinal (fig. 26) folds and by at least one
@@ -2510,7 +2545,7 @@ crosses the Kings Bottom syncline, to the mouth of Kane Springs Canyon,
 then becomes a gravel road that ascends this canyon southward to and
 beyond Hurrah Pass (fig. 30). High above this road north of Kings Bottom
 are petroglyphs and a few cliff dwellings in the vertical cliffs of
-Wingate Sandstone. A ranch “house” at Kings Bottom has been excavated
+Wingate Sandstone. A ranch "house" at Kings Bottom has been excavated
 entirely into the Wingate cliff. Convenient turnouts have been provided
 at several places along Highway 279 for viewing petroglyphs or other
 points of interest. Small viewing tubes welded to vertical steel posts
@@ -2531,7 +2566,7 @@ Navajo Sandstone down to and slightly below water level, whereas at The
 Portal (fig. 68) the Navajo caps the southwest wall of Moab Valley.
 Several anticlines at or near the river from Potash to and beyond the
 confluence (fig. 1) bring up strata as old as the Rico or the unnamed
-upper member of the Hermosa. Between these extremes, much of the river’s
+upper member of the Hermosa. Between these extremes, much of the river's
 course lies in strata of the Cutler Formation.
 
 About 7 miles below The Portal, Highway 279 is joined on the right by a
@@ -2539,15 +2574,15 @@ branch line of the Denver and Rio Grand Western Railroad completed in
 1962 to haul potash 36 miles from the mine at Potash north to the main
 line at Crescent Junction. The railroad emerges from a tunnel at the
 head of Bootlegger Canyon. Two natural arches near the mouth of the
-tunnel—Pinto and Little Rainbow Bridge—can be reached by trail. About 3
-miles farther down the Colorado is a temporary dock from which jet boats
-and the _Canyon King_, a 93-foot 150-passenger stern-wheeler, take off
-for points downriver during the spring and early summer, when water
+tunnel--Pinto and Little Rainbow Bridge--can be reached by trail. About
+3 miles farther down the Colorado is a temporary dock from which jet
+boats and the _Canyon King_, a 93-foot 150-passenger stern-wheeler, take
+off for points downriver during the spring and early summer, when water
 depth permits. The _Canyon King_ (fig. 69), a small replica of a
 Mississippi River stern-wheeler, carries passengers about 30 miles
 downriver to the foot of Dead Horse Point and returns (Lansford, 1972).
 
-About 12 miles below The Portal we reach Potash—the potash “mine” (fig.
+About 12 miles below The Portal we reach Potash--the potash "mine" (fig.
 70) of Texas Gulf, Inc. (See fig. 31 and its associated text for
 description of operation.) Travelers down the jeep trail below Potash
 pass the evaporation ponds (fig. 71) used to separate the potash from
@@ -2570,12 +2605,12 @@ common salt.
     anticline and La Sal Mountains in right background. (Fig. 71)]
 
 Across the river east from Potash is Jackson Hole, a large rincon. Since
-abandonment, which shortened the river by about 3½ miles, the river has
-cut its channel nearly 200 feet deeper. It is comparable in size to the
-large rincon along Green River below Bowknot Bend (p. 90) but probably
-is somewhat younger. Both rincons may be as old as late Tertiary (fig.
-80). Just below Potash we cross the axis of the huge Cane Creek
-anticline (fig. 31) and also leave Grand County to enter San Juan
+abandonment, which shortened the river by about 3-1/2 miles, the river
+has cut its channel nearly 200 feet deeper. It is comparable in size to
+the large rincon along Green River below Bowknot Bend (p. 90) but
+probably is somewhat younger. Both rincons may be as old as late
+Tertiary (fig. 80). Just below Potash we cross the axis of the huge Cane
+Creek anticline (fig. 31) and also leave Grand County to enter San Juan
 County. A mile east of this point, high on the canyon wall, is the
 School Section 13 uranium mine, which has yielded considerable ore and
 is expected to resume production sometime during 1973. It can be seen
@@ -2584,16 +2619,16 @@ left flank of the anticline in figure 13.
 
 Voyagers who cross the axis of the Cane Creek anticline may observe on
 the right-hand (west) bank a protruding oil-well casing, some drill
-bits, and several shacks—all that remain of the Frank Shafer No. 1 oil
+bits, and several shacks--all that remain of the Frank Shafer No. 1 oil
 test started during the winter of 1924-25 and completed by the Midwest
 Exploration Co. (Baker, 1933, p. 81). As described by Maxine Newell
 (U.S. Natl. Park Service, written commun., 1970),
 
   The well blew in in December 1925, caught fire, and spewed burning oil
   300 feet into the air. * * * The local Times-Independent newspaper
-  called it “Mother Nature’s Christmas Gift to Grand County.” The gusher
+  called it "Mother Nature's Christmas Gift to Grand County." The gusher
   burned down the rig, a barge of equipment, and it took three months to
-  get it under control. Then it didn’t produce.
+  get it under control. Then it didn't produce.
 
 Various 1925 and 1926 issues of the Moab Times-Independent reported that
 despite many efforts to plug the well, it continued to flow from 1,000
@@ -2608,8 +2643,8 @@ Mrs. Newell added,
   by the old Moab Garage Company; in winter months materials were
   carried by team and sled over the river ice. They would take a couple
   of rig timbers and pile a lot of lumber on them (they could take
-  10,000 feet), then we’d give them a start with a crowbar and the mules
-  would trot all the way downhill to the well. When they’d get there
+  10,000 feet), then we'd give them a start with a crowbar and the mules
+  would trot all the way downhill to the well. When they'd get there
   they had a little trouble stopping sometimes; they would turn into the
   bank, unload, then put the double trees on one mule, ride the other,
   and head back for a new load of rig lumber.
@@ -2626,7 +2661,7 @@ river shown in figure 15, we get an excellent view of Dead Horse Point
 some 2,000 feet above.
 
 Robert R. Norman (oral commun. Feb. 27, 1973) described to me a small
-petrified forest—which he said resembles a log jam—in the eastern part
+petrified forest--which he said resembles a log jam--in the eastern part
 of the Shafer dome, at mileage 39 (Baars and Molenaar, 1971, p. 65),
 just north of this point about half way between the river and the jeep
 trail below Dead Horse Point. He estimated that there probably are 20 to
@@ -2634,26 +2669,27 @@ trail below Dead Horse Point. He estimated that there probably are 20 to
 than 20 feet long, and also described a stump about 3 feet in diameter.
 They occur in red beds at about the middle of the Rico Formation, hence
 could be either Pennsylvanian or Permian in age (figs. 9, 80). The
-original wood has been replaced by silica (SiO₂) and stained a dark
+original wood has been replaced by silica (SiO_{2}) and stained a dark
 reddish brown, as shown in figure 72.
 
 Mr. Norman and his brother also discovered many teeth of a primitive
 sharklike fish in the Rico Formation at the same general locality as the
 petrified wood and also in the Rico on the Cane Creek anticline. I
 submitted two of the teeth to Dr. David H. Dunkle, curator of the
-Cleveland Museum of Natural History, who reported them to be “one tooth
-of the cochliodont ‘shark’ _Deltodus_, and one tooth of the petalodont
-‘shark’ _Petalodus_” (written commun., May 22, 1973).
+Cleveland Museum of Natural History, who reported them to be "one tooth
+of the cochliodont 'shark' _Deltodus_, and one tooth of the petalodont
+'shark' _Petalodus_" (written commun., May 22, 1973).
 
 About 4 miles below the Goose Neck, we enter Canyonlands National Park
 and remain in the park almost to the north end of Lake Powell.
 
-About 6½ miles into the park, at the north end of a bend much like the
-Goose Neck, is the mouth of Lathrop Canyon, where many boaters stop for
-lunch and where a side road connects with the White Rim Trail (fig. 1).
+About 6-1/2 miles into the park, at the north end of a bend much like
+the Goose Neck, is the mouth of Lathrop Canyon, where many boaters stop
+for lunch and where a side road connects with the White Rim Trail (fig.
+1).
 
 Six and one half miles below Lathrop Canyon is the mouth of Rustler
-Canyon, which is joined near its mouth by Indian Creek—the creek
+Canyon, which is joined near its mouth by Indian Creek--the creek
 followed by the highway leading to The Needles from U.S. 163. Within an
 airline distance of only 3 miles, the lower reach of Indian Creek, an
 intermittent stream, flows past four small rincons, three of which (fig.
@@ -2663,19 +2699,19 @@ Formation only 15 to 20 feet deeper than the abandoned ones in the two
 rincons at the left in figure 73 and only about 25 feet deeper than the
 one on the right. These figures suggest, at least to me, that these
 cutoffs probably occurred sometime during the Holocene Epoch, or age of
-man—that is, probably within the last 10,000 years (fig. 80). A detailed
-study of these rincons might change this estimate, particularly if, say,
-buried driftwood or other carbonaceous material could be found for an
-age determination by the radiocarbon method.
+man--that is, probably within the last 10,000 years (fig. 80). A
+detailed study of these rincons might change this estimate, particularly
+if, say, buried driftwood or other carbonaceous material could be found
+for an age determination by the radiocarbon method.
 
     [Illustration: PETRIFIED LOG, near middle of Rico Formation, about 1
     mile southeast of Dead Horse Point. Log is estimated to be about 18
     inches in diameter. Photograph by Robert R. Norman. (Fig. 72)]
 
     [Illustration: RELATIVELY RECENT RINCONS ALONG INDIAN CREEK, about
-    3½ miles above mouth and about 2 miles east of Canyonlands National
-    Park. Above, stereoscopic pair of aerial photographs by U.S.
-    Geological Survey; below, sketch showing drainage changes. The
+    3-1/2 miles above mouth and about 2 miles east of Canyonlands
+    National Park. Above, stereoscopic pair of aerial photographs by
+    U.S. Geological Survey; below, sketch showing drainage changes. The
     stereoscopic pair can be viewed without optical aids by those
     accustomed to this procedure, or by use of a simple double-lens
     stereoscope. (Fig. 73)]
@@ -2690,17 +2726,17 @@ age determination by the radiocarbon method.
     (Fig. 74)]
 
 About 5 miles below the mouth of Rustler Canyon and Indian Creek, and
-also about 5 miles above the confluence, is The Loop—an even sharper and
-more symmetrical figure eight than Bowknot Bend of the Green River (fig.
-62). An aerial view of The Loop (fig. 74) shows that the channels on the
-south loop are only about 500 feet apart and that those on the north
-loop are only about 1,700 feet apart. At the narrowest places, both
-saddles are considerably eroded—the southern one is only about 150 feet
-above the river, but the northern one is still about 350 feet above.
-Erosion of both saddles has been hastened by the facts that the axis of
-the Meander anticline (see p. 108) passes through each saddle and that
-an interesting reverse fault (fig. 75) passes through the lower and
-thinner southern saddle. The differences between reverse and normal
+also about 5 miles above the confluence, is The Loop--an even sharper
+and more symmetrical figure eight than Bowknot Bend of the Green River
+(fig. 62). An aerial view of The Loop (fig. 74) shows that the channels
+on the south loop are only about 500 feet apart and that those on the
+north loop are only about 1,700 feet apart. At the narrowest places,
+both saddles are considerably eroded--the southern one is only about 150
+feet above the river, but the northern one is still about 350 feet
+above. Erosion of both saddles has been hastened by the facts that the
+axis of the Meander anticline (see p. 108) passes through each saddle
+and that an interesting reverse fault (fig. 75) passes through the lower
+and thinner southern saddle. The differences between reverse and normal
 faults are shown by comparing figures 56 and 76. It seems inevitable
 that some day the small saddle will be cut through by the Colorado
 River, and a new rincon will result. Eventually, the other loop also
@@ -2710,15 +2746,15 @@ such an event, particularly if one had a time-lapse movie camera to
 record it for posterity!
 
     [Illustration: REVERSE FAULT in southern saddle of The Loop, looking
-    northwest from boat in river. Apparent angle of dip is 12° below
+    northwest from boat in river. Apparent angle of dip is 12� below
     horizontal. Rocks at left, above fault plane, have been shoved about
     10 feet past and over those on right. Curving of dark bed near
-    middle of fault plane is called “drag.” (See fig. 76.) Rocks are
+    middle of fault plane is called "drag." (See fig. 76.) Rocks are
     unnamed upper member of Hermosa Formation. (Fig. 75)]
 
     [Illustration: CUTAWAY VIEW OF REVERSE FAULT, resulting from
-    horizontal compression, which caused a shortening of earth’s crust.
-    Note “drag” of beds on each side of fault plane. Low-angle reverse
+    horizontal compression, which caused a shortening of earth's crust.
+    Note "drag" of beds on each side of fault plane. Low-angle reverse
     faults, also called thrust faults, may have displacements ranging
     from a few feet to many miles. From Hansen (1969, p. 116). (Fig.
     76)]
@@ -2748,18 +2784,18 @@ Powell (1875, p. 56) remarked:
 
   These streams unite in solemn depths, more than one thousand two
   hundred feet below the general surface of the country. The walls of
-  the lower end of Stillwater Cañon are very beautifully curved [see
+  the lower end of Stillwater Ca�on are very beautifully curved [see
   fig. 67], as the river sweeps in its meandering course. The lower end
-  of the cañon through which the Grand comes down, is also regular, but
+  of the ca�on through which the Grand comes down, is also regular, but
   much more direct, and we look up this stream, and out into the country
   beyond, and obtain glimpses of snow clad peaks, the summits of a group
   of mountains known as the Sierra La Sal [La Sal Mountains]. Down the
-  Colorado, the cañon walls are much broken.
+  Colorado, the ca�on walls are much broken.
 
-Dellenbaugh (1902, p. 277) gave a fuller description but concluded: “In
-every way the Junction is a desolate place”—an appraisal with which I
+Dellenbaugh (1902, p. 277) gave a fuller description but concluded: "In
+every way the Junction is a desolate place"--an appraisal with which I
 disagree. The most colorful account I have read is that of Captain
-Francis Marion Bishop, a member of Powell’s 1871 expedition, who
+Francis Marion Bishop, a member of Powell's 1871 expedition, who
 recorded in his journal for September 15, 1871 (1947, p. 202):
 
   Well, we are at last, after many days of toil and labor, here at the
@@ -2781,11 +2817,11 @@ recorded in his journal for September 15, 1871 (1947, p. 202):
     Mountains, at right. Photograph by E. N. Hinrichs. (Fig. 77)]
 
     [Illustration: THE SLIDE, which partly blocks the Colorado River
-    about 1½ miles above the confluence. View downstream. (Fig. 78).]
+    about 1-1/2 miles above the confluence. View downstream. (Fig. 78).]
 
 Cataract Canyon heads at the confluence, but the rapids do not appear
-until we leave Spanish Bottom some 3½ miles below. Between The Loop and
-Spanish Bottom, the Colorado River follows closely the axis of an
+until we leave Spanish Bottom some 3-1/2 miles below. Between The Loop
+and Spanish Bottom, the Colorado River follows closely the axis of an
 anticline. Along this reach the rock strata dip downward away from the
 river, as shown in figure 61. This fold was noted by Powell and some of
 his men, and Bishop (1947, p. 203) reported in his journal for September
@@ -2793,7 +2829,7 @@ his men, and Bishop (1947, p. 203) reported in his journal for September
 
   He [Steward] is at a loss how to account for the folded appearance of
   the strata here. But doubtless will find some explanation. Says the
-  dip recedes from the river cañon, and thinks it is a fissure. Maj.
+  dip recedes from the river ca�on, and thinks it is a fissure. Maj.
   [Powell] thinks it is owing to an upheaval, and that the beds next to
   the river have broken up from the mass, etc., etc.
 
@@ -2801,7 +2837,7 @@ Forty-four years later Harrison (1927) named this structure the Meander
 anticline and concluded that the weight of the rocks on each side of the
 river had squeezed underlying beds of salt in the Paradox Member of the
 Hermosa Formation and caused them to move upward along the river, where
-the confining strata had been removed by erosion. Harrison’s theory was
+the confining strata had been removed by erosion. Harrison's theory was
 accepted by Baker (1933) and most later workers in the area. Thus we
 have what may be termed an erosional anticline, whose axis, or crest,
 follows the river. Erosional anticlines also occur elsewhere, as along
@@ -2846,17 +2882,17 @@ about 5 miles below the park.
 
                           The Age of the Earth
 
-The Earth is very old—four and a half billion years or more according to
-recent estimates. Most of the evidence for an ancient Earth is contained
-in the rocks that form the Earth’s crust. The rock layers
-themselves—like pages in a long and complicated History—record the
+The Earth is very old--four and a half billion years or more according
+to recent estimates. Most of the evidence for an ancient Earth is
+contained in the rocks that form the Earth's crust. The rock layers
+themselves--like pages in a long and complicated History--record the
 surface-shaping events of the past, and buried within them are traces of
-life—the plants and animals that evolved from organic structures that
+life--the plants and animals that evolved from organic structures that
 existed perhaps three billion years ago.
 
 Also contained in rocks once molten are radioactive elements whose
 isotopes provide earth scientists with an atomic clock. Within these
-rocks, “parent” isotopes decay at a predictable rate to form “daughter”
+rocks, "parent" isotopes decay at a predictable rate to form "daughter"
 isotopes. By determining the relative amounts of parent and daughter
 isotopes, the age of these rocks can be calculated.
 
@@ -2873,7 +2909,7 @@ very old Earth!
 
 Having finished our geologic ramble through Canyonlands National Park,
 let us see how this pile of eroded rocks fit into the bigger scheme of
-things—the geologic age and events of the earth as a whole, as depicted
+things--the geologic age and events of the earth as a whole, as depicted
 in figure 80. As shown in figure 9, the rock strata still preserved in
 the park range in age from Pennsylvanian to Jurassic, or from about 300
 to 175 million years ago, a span of about 125 million years. This seems
@@ -2891,7 +2927,7 @@ spiral.
 
 Deep tests for oil and gas tell us that much older rocks underlie the
 area, and we have seen that some of these rocks played a part in shaping
-the park we see today—note the breaks in the deep-seated Precambrian
+the park we see today--note the breaks in the deep-seated Precambrian
 rocks and the salt in the Paradox Member. In addition to the Precambrian
 igneous and metamorphic rocks, there are about 2,000 feet of Paleozoic
 sedimentary rocks older than the Pennsylvanian Paradox Member. Most of
@@ -2904,9 +2940,9 @@ rocks are absent altogether, presumably because here the Silurian Period
 was dominated by erosion rather than deposition.
 
 While Pennsylvanian and Permian sediments were being deposited in and
-southwest of the park, a large area to the northeast—called by
+southwest of the park, a large area to the northeast--called by
 geologists the Uncompahgre highland, because it occupied the same
-general area as the present Uncompahgre Plateau—rose slowly above sea
+general area as the present Uncompahgre Plateau--rose slowly above sea
 level. Whatever Paleozoic rocks there were on this rising land, plus
 part of the underlying Precambrian rocks, were eroded and carried by
 streams into deep basins to the northeast and southwest. Thus, while
@@ -2939,7 +2975,7 @@ Cisco (fig. 7).
 The land rose above the sea at about the close of the Cretaceous and has
 remained above ever since, although inland basins and lakes received
 sediment during parts of the Tertiary Period. Compressive forces in the
-earth’s crust produced some gentle folding of the strata at the close of
+earth's crust produced some gentle folding of the strata at the close of
 the Cretaceous, but more pronounced folding and some faulting occurred
 during the Eocene Epoch, when most of the Rocky Mountains took form.
 During the Miocene Epoch molten igneous rock welled up into the strata
@@ -2963,9 +2999,9 @@ so an enormous span of time is represented by the rocks and events in
 and beneath Canyonlands National Park.
 
 If we consider the geologic formations that make up the Colorado
-Plateau—including national parks (N.P.), national monuments (N.M.)
+Plateau--including national parks (N.P.), national monuments (N.M.)
 (excluding small historical or archeological ones), Monument Valley, San
-Rafael Swell, and Glen Canyon National Recreation Area—certain
+Rafael Swell, and Glen Canyon National Recreation Area--certain
 formations or groups of formations play starring roles in some parks or
 monuments, some play supporting roles, and in a few places the entire
 cast of rocks gets about equal billing. Let us compare them and see how
@@ -2973,7 +3009,7 @@ and where they fit into the geologic time spiral (fig. 80).
 
 Dinosaur N. M., with exposed rocks ranging in age from Precambrian to
 Cretaceous, represents the greatest time span (nearly 2 billion years)
-but has one unit—the Jurassic Morrison Formation—in the starring role,
+but has one unit--the Jurassic Morrison Formation--in the starring role,
 for this unit contains the many dinosaur fossils that give the monument
 its name and fame; several older units have supporting roles. Grand
 Canyon N. P. and N. M. are next, with rocks from Precambrian through
@@ -2992,21 +3028,21 @@ beginning at the bottom of the time spiral. Black Canyon of the Gunnison
 N. M., cut entirely in rocks of early Precambrian age (except for only a
 veneer of much younger rocks), obviously has but one star in its cast.
 Colorado N. M. contains rocks ranging from Precambrian to
-Cretaceous—equal to Dinosaur in this respect—but it is unique in that
+Cretaceous--equal to Dinosaur in this respect--but it is unique in that
 all the rocks of the long Paleozoic Era and some others are missing from
 the cast; of those that remain, the Triassic Wingate and Kayenta are the
 stars, with strong support from the Jurassic Entrada Sandstone.
 
 All the bridges in Natural Bridges N. M. were carved from the Permian
 Cedar Mesa Sandstone, also the star in Canyonlands N. P. In Canyon de
-Chelly (pronounced “dee shay”) N. M. and Monument Valley (neither N. P.
+Chelly (pronounced "dee shay") N. M. and Monument Valley (neither N. P.
 nor N. M., as it is owned and administered by the Navajo Tribe), the de
-Chelly Sandstone Member of the Cutler Formation—a Permian member younger
-than the Cedar Mesa—plays the starring role.
+Chelly Sandstone Member of the Cutler Formation--a Permian member
+younger than the Cedar Mesa--plays the starring role.
 
 Wupatki N. M., near Flagstaff, Ariz., stars the Triassic Moenkopi
 Formation. Petrified Forest N. P. (which now includes part of the
-Painted Desert) also has but one star—the Triassic Chinle Formation,
+Painted Desert) also has but one star--the Triassic Chinle Formation,
 with its many petrified logs and stumps of ancient trees. The
 Triassic-Jurassic Glen Canyon Group (fig. 9), which includes the
 Triassic Wingate Sandstone and Kayenta Formation and the
@@ -3027,10 +3063,10 @@ As we journey upward in the time spiral (fig. 80), we come to the
 Jurassic Entrada Sandstone, which stars in Arches N. P., with help from
 the underlying Navajo Sandstone and a supporting cast of both older and
 younger rocks. The Entrada also forms the grotesque erosional forms
-called “hoodoos and goblins” in Goblin Valley State Park, north of
+called "hoodoos and goblins" in Goblin Valley State Park, north of
 Hanksville, Utah.
 
-Moving ever upward in the spiral, we come to the Cretaceous—the age of
+Moving ever upward in the spiral, we come to the Cretaceous--the age of
 the starring Mesaverde Group, whose caves in Mesa Verde N. P. now house
 beautifully preserved ruins once occupied by the Anasazi, the same
 ancient people who once dwelt in Canyonlands N. P.
@@ -3046,9 +3082,9 @@ at Sunset Crater N. M., near Flagstaff, Ariz.
 Thus, one way or another, many geologic units that formed during the
 last couple of billion years have performed on the stage of the Colorado
 Plateau and, hamlike, still lurk in the wings eagerly awaiting your
-applause to recall them to the footlights. Don’t let them down—visit and
-enjoy the national parks and monuments of the Plateau, for they probably
-are the greatest collection of scenic wonderlands in the world.
+applause to recall them to the footlights. Don't let them down--visit
+and enjoy the national parks and monuments of the Plateau, for they
+probably are the greatest collection of scenic wonderlands in the world.
 
     [Illustration: Dinosaur]
 
@@ -3060,11 +3096,11 @@ Additional Reading
 
 Many reports covering various aspects of the area have been cited in the
 text by author and year, and these plus a few additional ones are listed
-below under “Selected References.” A few of general or special interest
+below under "Selected References." A few of general or special interest
 should be mentioned, however.
 
 Between 1926 and 1931 virtually the entire area now included in the park
-was mapped geologically in three classic reports—two by Baker (1933,
+was mapped geologically in three classic reports--two by Baker (1933,
 1946) and one by McKnight (1940). These men and their field assistants
 mapped the area by use of the plane table and telescopic alidade without
 benefit of modern topographic maps or aerial photographs, except for
@@ -3073,7 +3109,7 @@ made under the direction of Herron (1917). Only small sections could be
 reached by automobile, so nearly all the area was traversed using horses
 or by hiking.
 
-During the uranium boom of the early and middle 1950’s, the U.S.
+During the uranium boom of the early and middle 1950's, the U.S.
 Geological Survey remapped the topography of most of the area at a scale
 of 1:24,000 and also remapped the geology of much of the area at this
 same scale. The southern part of the Needles district was mapped by
@@ -3095,7 +3131,7 @@ National Park, including one on the plants.
 
 Several early reports on the Green and Colorado Rivers and their
 potential utilization contain a wealth of information and many fine
-photographs—two reports on the Colorado River by La Rue (1916, 1925),
+photographs--two reports on the Colorado River by La Rue (1916, 1925),
 one on the Green River by Wooley (1930), and one on the upper Colorado
 River (above the confluence) by Follansbee (1929).
 
@@ -3140,7 +3176,7 @@ field work and for her help and encouragement.
           Bull. 951, 122 p.
   Baker, Pearl, 1971, The Wild Bunch at Robbers Roost: New York,
           Toronto, London, Abelard-Schuman, 224 p.
-  Bishop, Captain Francis Marion, 1947, Bishop’s Journal edited by
+  Bishop, Captain Francis Marion, 1947, Bishop's Journal edited by
           Charles Kelley, _in_ Biographical sketches and original
           documents of the second Powell expedition of 1871-72: Utah
           State Hist. Soc., Utah Hist. Quart., v. 15, p. 159-238.
@@ -3148,7 +3184,7 @@ field work and for her help and encouragement.
           and Arizona: New York, Alfred A. Knopf (Utah Univ. Press, in
           association with Amon Carter Mus. Western Art), 191 p.
   Dellenbaugh, F. S., 1902, The romance of the Colorado River: New York,
-          G. P. Putnam’s Sons, 399 p. [reprinted 1962 by Rio Grande
+          G. P. Putnam's Sons, 399 p. [reprinted 1962 by Rio Grande
           Press, Chicago, III.]
   ____ 1962, A canyon voyage: The narrative of the second Powell
           Expedition down the Green-Colorado River from Wyoming, and the
@@ -3158,7 +3194,7 @@ field work and for her help and encouragement.
   Everhart, W. C., 1972, The National Park Service, Praeger Library of
           U.S. Government Departments and Agencies No. 13: New York,
           London, Praeger Publishers, Inc., 276 p.
-  Findley, Rowe, 1971. Canyonlands—realm of rock and the far horizon:
+  Findley, Rowe, 1971. Canyonlands--realm of rock and the far horizon:
           Nat Geog. Mag., July, p. 71-91.
   Follansbee, Robert, 1929, Upper Colorado River and its utilization:
           U.S. Geol. Survey Water-Supply Paper 617, 394 p.
@@ -3199,7 +3235,7 @@ field work and for her help and encouragement.
   Hunt, C. B., 1969, Geologic history of the Colorado River, _in_ The
           Colorado River region, and John Wesley Powell: U.S. Geol.
           Survey Prof. Paper 669, p. 59-130.
-  Jennings, J. D., 1970, Canyonlands—aborigines: Naturalist, v. 21,
+  Jennings, J. D., 1970, Canyonlands--aborigines: Naturalist, v. 21,
           Summer, Spec. Issue 2, p. 10-15.
   Joesting, H. R., and Plouff, Donald, 1958, Geophysical studies of the
           Upheaval Dome area, San Juan County, Utah: Intermountain
@@ -3234,7 +3270,7 @@ field work and for her help and encouragement.
           Paradox Basin, Utah, _in_ Mattox, R. B., ed., Saline deposits:
           Geol. Soc. America Spec. Paper 88, p. 331-347.
   Mutschler, F. E., 1969, Labyrinth, Stillwater, and Cataract Canyons:
-          River runners’ guide to the canyons of the Green and Colorado
+          River runners' guide to the canyons of the Green and Colorado
           Rivers, with emphasis on geologic features, volume II: Denver,
           Colo., Powell Soc., Ltd., 79 p.
   Mutschler, F. E., and Hite, R. J., 1969, Origin of the Meander
@@ -3245,7 +3281,7 @@ field work and for her help and encouragement.
   Newberry, J. S., 1861, Geological report, _in_ Ives, J. C., Report
           upon the Colorado River of the West: U.S. 36th Cong. 1st
           sess., S. Ex. Doc. and H. Ex. Doc. 90, pt. 3, 154 p.
-  Newell, Maxine, 1970, Canyonlands—modern history: Naturalist, v. 21,
+  Newell, Maxine, 1970, Canyonlands--modern history: Naturalist, v. 21,
           Summer, Spec. Issue 2, p. 40-47.
   Newman, W. L., 1970, Geologic time: U.S. Geol. Survey, 20 p.
   Porter, Elliot, 1969, Down the Colorado, John Wesley Powell diary of
@@ -3263,11 +3299,11 @@ field work and for her help and encouragement.
           shaded-relief illustrations, _in_ Short papers in geology,
           hydrology, and topography: U.S. Geol. Survey Prof. Paper
           450-D, p. D164-D165.
-  Stokes, W. L., 1970, Canyonlands—geology: Naturalist, v. 21, Summer,
+  Stokes, W. L., 1970, Canyonlands--geology: Naturalist, v. 21, Summer,
           Spec. Issue 2, p. 3-9.
-  Stone, J. F., 1932, Canyon country—The romance of a drop of water and
-          a grain of sand: New York, London, G. P. Putnam’s Sons, 442 p.
-  U.S. Geol. Survey, [1969], John Wesley Powell—soldier, explorer,
+  Stone, J. F., 1932, Canyon country--The romance of a drop of water and
+          a grain of sand: New York, London, G. P. Putnam's Sons, 442 p.
+  U.S. Geol. Survey, [1969], John Wesley Powell--soldier, explorer,
           scientist: 23 p.
   Williams, P. L., 1964, Geology, structure, and uranium deposits of the
           Moab quadrangle, Colorado and Utah: U.S. Geol. Survey Misc.
@@ -3301,8 +3337,8 @@ Footnotes
     obtained from the T.N. Hubbard Scientific Co., Box 105, Northbrook,
     Ill. 60062. Topographic maps at scales of 1:250,000 and 1:62,500 for
     the entire area, topographic maps at a scale of 1:24,000 for much of
-    the area, and a special topographic map of “Canyonlands National
-    Park and Vicinity” at a scale of 1:62,500 are available from the
+    the area, and a special topographic map of "Canyonlands National
+    Park and Vicinity" at a scale of 1:62,500 are available from the
     U.S. Geological Survey, Denver Distribution Section, Federal Center,
     Denver, Colo. 80225, and from privately owned shops where maps are
     sold. A revised edition of the latter, including relief shading,
@@ -3415,7 +3451,7 @@ Footnotes
   Colorado National Monument                                          115
   Colorado Plateau                                            17, 21, 114
   Colorado River                                                _96_, 114
-      river runners’ guidebook                                          5
+      river runners' guidebook                                          5
   Confluence of Green and Colorado Rivers                     17, 80, 106
   Confluence Overlook                                                  80
   Cutler Formation                                         48, 54, 62, 98
@@ -3478,7 +3514,7 @@ Footnotes
   Grays Pasture                                                    29, 36
   Green River                                                        _87_
       Overlook                                                         43
-      River runners’ guidebook                                          4
+      River runners' guidebook                                          4
   Ground water                                                     64, 65
 
 
@@ -3542,7 +3578,7 @@ Footnotes
   Kane Springs Canyon                                                  48
   Kayenta Formation                                           25, 54, 115
   Keyhole Ruin                                                         67
-  King’s Bottom syncline                                           50, 98
+  King's Bottom syncline                                           50, 98
 
 
                                     L
@@ -3706,7 +3742,7 @@ Footnotes
       facies changes                                      34, 47, 58, 113
       fossils                                                     76, 101
       gypsum                                                      79, 113
-      “layer-cake geology”                                             23
+      "layer-cake geology"                                             23
       salt                                           43, 53, 79, 108, 113
       sculpture by erosion                                             25
   Sevenmile Canyon                                                     28
@@ -3743,7 +3779,7 @@ Footnotes
   The Portal                                                           97
   The Slide                                                           106
   The Spur                                                             54
-  “Three Worlds”                                                       24
+  "Three Worlds"                                                       24
   Thundershowers                                                       67
   Tower Ruin                                                        9, 68
   Trails, Cave Spring Environmental                                14, 66
@@ -3814,22 +3850,22 @@ Footnotes
                                     Z
   Zion National Park                                                  115
 
-    [Illustration: DEPARTMENT OF THE INTERIOR · March 3, 1949]
+    [Illustration: DEPARTMENT OF THE INTERIOR � March 3, 1949]
 
 
 
 
-Transcriber’s Notes
+Transcriber's Notes
 
 
-—Retained publication information from the printed edition: this eBook
+--Retained publication information from the printed edition: this eBook
   is public-domain in the country of publication.
 
-—Corrected a few palpable typos.
+--Corrected a few palpable typos.
 
-—Included a transcription of the text within some images.
+--Included a transcription of the text within some images.
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
 
@@ -3841,4 +3877,365 @@ Transcriber’s Notes
 End of the Project Gutenberg EBook of The Geologic Story of Canyonlands
 National Park, by S. W. Lohman
 
-*** END OF THE PROJECT GUTENBERG EBOOK 51048 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK CANYONLANDS NATIONAL PARK ***
+
+***** This file should be named 51048-8.txt or 51048-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/0/4/51048/
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
